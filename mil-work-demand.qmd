@@ -1,0 +1,3163 @@
+---
+title: "**Working Demand For The Soldier**"
+subtitle: Military Pentathlon Jørstadmoen 2025
+format: clean-revealjs
+logo: images/double-logo.png
+title-slide-attributes: 
+  data-background-image: ""
+author:
+  - name: Sjur Fortun Øfsteng | PhD
+    orcid: 0000-0000-0000-0000
+    email: Norwegian Defence Cyber Academy
+    affiliations: sofsteng@mil.no
+date: September 21, 2025
+#standalone: true
+self-contained: true
+bibliography: bib/bib-lecture.bib
+execute: 
+  echo: false
+  warning: false
+  message: false
+editor_options: 
+  
+  chunk_output_type: console
+---
+
+```{r}
+source("./R/libraries.R")
+source("./R/themes.R")
+
+```
+
+
+
+
+## Outline of talk {.smaller background-color="#107895"}
+
+- What is a military operation?
+
+- The demand of the military soldier
+
+- Determinants of military readiness
+
+- Benefit of maintaining physical fitness
+
+- Training strategies during deployment to preserve physical fitness and military readiness
+
+- Practical application
+
+::: {.fragment}
+
+Narrowing the scope:
+
+
+- Physiological fitness is defined as strength and endurance related variables
+
+- Military personnel are not being categorized into their military occupational specialties
+
+- Will not delve into biological mechanisms occurring during operations (i.e. hormones)
+
+:::
+
+::: {.notes}
+
+- To get an understanding of this assignment and why the physical fitness is of importance for the soldier, we need to start with what is characterizing a military operations.
+
+- and then we look into the demand of the modern soldier
+
+- so will I talk about determinants of military readiness
+
+- Before I talk about the benefit of maintaining physical fitness
+
+- I will then talk about training strategies to maintain physical fitness during prolonged operations
+
+- before I ending up with a practical application  
+
+
+"click" to narrowing the scope a little bit, 
+
+- Physiological fitness is defined as strength and endurance related variables
+
+- Military personnel are not being categorized into their military occupational specialties
+
+- Will not delve into biological mechanisms occurring during operations (i.e. hormones)
+
+
+:::
+
+## Outline of talk {.smaller background-color="#107895"}
+
+- **What is a military operation?**
+
+- The demand of the military soldier
+
+- Determinants of military readiness
+
+- Benefit of maintaining physical fitness
+
+- Training strategies during deployment to preserve physical fitness and military readiness
+
+- Practical application
+
+
+
+
+## Military operations{ background-color="#107895" visibility="hidden"}
+
+### "What are the short- and long-term benefits of maintaining physical fitness for military personnel during prolonged [operations]{.alert}, and what strategies are most effective?"
+
+
+::: {.notes}
+
+- To get an understanding of what an operation is, we need to see how it i characterized....
+
+:::
+
+## Military operations {.smaller background-color="#107895"}
+
+### Range of military operations (ROMO)
+
+![](fig/operation.png)
+
+-   The conflict continuum forms the operation (inspired by doctrine.af.mil)
+
+::: notes
+
+
+- So, a military operation is not a fixed situation. IT continuously varies in degrees of intensity and complexity on a day or weekly basis. 
+
+- On the one side we have, Stable Peace, with LOW intensity and complexity of the conflict,
+
+- Moving along this line to the right, the intensity/complexity of the conflict increases towards maximum, which is war time..
+
+:::
+
+## Military operations {.smaller background-color="#107895"}
+
+### What characterizes these operations
+
+![](fig/new/new_level_2.png){.absolute width="650" left=-5}
+
+
+
+::: {.fragment .absolute top=390}
+
+1\. Military engagement
+
+ - routine military activities (day-to day conflict tension low)
+ 
+:::
+
+::: {.fragment .absolute top=480}
+
+2\. Crisis response
+
+ - peace enforcement (i.e. noncombat evacuation, peace operations)
+
+:::
+
+::: {.fragment .absolute top=570}
+
+3\. Major operations
+
+ - often large-scale or long duration operations (often associated with wartime conditions)
+
+:::
+
+::: notes
+
+- Along this continuum we ha different levels of operations...
+
+1.  "click", in the first level: the military is engaged to control tension between groups, predominately without force, and often involve being deployed in foreign country. BUT, the Day to day conflict tension is low.
+
+2. "click", moving to the right, the conflict level increases and the soldiers readiness level is elevated, it typically involves small-scale operations, of limited duration, such as nonbombat evacuations..
+
+3.  "click" far right, there is sustained operations in conflict with other nations or groups, it is often a *series* of operations aimed to restore security, and strategic positions within a given time, this is often associated with full wartime..
+
+:::
+
+
+## Military operations {.smaller background-color="#107895"}
+
+### Military readiness
+
+
+::: {.r-stack}
+
+
+
+![](fig/new/red1.png){.fragment fragment-index=1 .fade-in-then-out}
+
+
+![](fig/new/new_read.png){.fragment height="350" fragment-index=2}
+
+:::
+
+
+-   Military readiness is dependent of soldiers' physical fitness
+
+::: notes
+
+- "click", Along with the increasing tension in a conflict, the soldier must constantly cope with an increased degree of intensity and complexity of the operation.
+
+- Meaning the soldier needs to be ready for the demands of the operations both physically and mentally, AND this defines the soldiers military readiness. Which must be sustained irrespective of where they are in this conflict continuum. 
+
+- And to sustain this military readiness over time,"click" it demands that the soldiers physical fitness level is maintained as high as possible *independent* of being in this stable peace area (POINT) with low intensity of conflict or mowing towards maximum intensity and complexity in war time.. 
+
+- So this demand line of fitness need to be high to ensure soldiers military readiness, as the conflict may move from left to right very fast..
+
+:::
+
+
+ 
+## Outline of talk {.smaller background-color="#107895"}
+
+- What is military operations?
+
+- **The demand of the military soldier**
+
+- Determinants for military readiness
+
+- Benefit of maintaining physical fitness
+
+- Training strategies during deployment to preserve physical fitness and military readiness
+
+- Practical application
+
+
+![](fig/new/new_read.png){.absolute bottom=50 right=0}
+
+::: {.notes}
+
+So, the demand of having a high physical fitness is closely connected with soldiers military readiness 
+
+- And, know let us look into how the demand of soldiers physical fitness has evolved on the modern battlefield
+
+:::
+
+
+
+
+## Military operations {.smaller background-color="#107895"}
+
+### Demands of physical fitness - has increased
+
+::: {.r-stack}
+
+
+![](fig/benefit/civil.png){.fragment .fade-in-then-out}
+
+
+
+![](fig/new/demand_load.png){.fragment}
+
+:::
+
+
+Figure from [@RN1615;@RN1633]
+
+
+::: {.notes}
+
+- "click", from the WWI until freedom operations in Iraq and Afghanistan (point), there is seen an linear increase in load carried on soldiers body
+
+- This is mainly due to development of advanced protective body armor and weapon systems - which has lead to load carried on body has increased from around 5 kg up to 30 kg over the last 100 years..
+
+- as a matter of fact, there is reported that soldiers during a 1 year deployment are in average carrying daily around 22 kg extra load on body compared to garrison duty..
+
+- "click", so , consequently, the extra load carried is putting daily an extra physiologically stress on the soldier, thus maintaining the demand for high physiological fitness
+
+::: 
+
+ 
+## Military readiness {.smaller background-color="#107895"}
+
+### Demands of physical fitness - anaerobic battlefield
+
+
+![](fig/benefit/spec.png)
+
+- Technology and equipment
+
+- Fast moving to the objective
+
+
+
+::: {.notes}
+
+- Furthermore has the real-world mission requirements with new technology and equipment emphasized a higher need for anaerobic capacity, especial in the special forces...
+
+- Instead of walking long distances to the enemy objectives, soldiers are now transported close to the target. Wherein the soldier, with combat gear are moving fast up/down buildings or terrain in offensive or defensive maneuvers. 
+
+- Consequently the anaerobic requirements is elevated, adding another demand on the soldier physical fitness capacity
+
+:::
+
+
+
+## Military operations {.smaller background-color="#107895"}
+
+### Demands of physical fitness - heavy tasks
+
+
+![](fig/new/demand_heavy.png)
+
+- Increased physically demanding tasks
+
+- Heavy duties increase 12-22% compared to garrison duties
+
+[@RN1633]
+
+::: {.notes}
+
+- Additionally increases the demand for performing heavy tasks during deployment
+
+- there is reported 12-22% increase in physical demanding tasks during deployment compared to garrison duties
+
+- hence, adding an extra physiological stress on the soldier
+
+:::
+
+
+
+## Military working demands {background-color="#107895"}
+
+- What is your working demand in your filed of expertise?
+
+    - Spend two minutes to discuss - reflect upon this question
+
+
+## Outline of talk {.smaller background-color="#107895"}
+
+- What is military operations?
+
+- The demand of the military soldier
+
+- **Determinants for military readiness**
+
+- Benefit of maintaining physical fitness
+
+- Training strategies during deployment to preserve physical fitness and military readiness
+
+- Practical application
+
+
+
+![](fig/new/demand_heavy.png){.absolute height="250" bottom=30 right=0}
+
+
+
+::: {.notes}
+
+- All these demands which has increased gradually with the modern battlefield thus highlight the need for high physical fitness during deployment, and will thus also affect soldiers military readiness..
+
+
+So, know we need FURTHER define the determinants for military readiness..
+
+:::
+
+
+
+
+
+
+
+
+## Military operations {.smaller background-color="#107895"}
+
+### Determinants for military readiness
+
+![](fig/new/body_dem_2.png){.fragment fragment-index=1 .absolute height="450" left=0}
+
+::: {.notes}
+
+- "click", As we see the military readiness is dependent on a high physical fitness level irrespective of degree of conflict. This fitness status is built on the soldiers strength and endurance capacities (pooint).
+
+:::
+
+
+
+
+## Determinants for military readiness {.smaller background-color="#107895"}
+
+### Strength and endurance factors
+
+
+Strength capacity
+
+```{r corr3 str}
+#| echo: false
+#| fig-height: 4.0 
+#| fig-width: 6.0
+
+str <- readRDS(file="./derived/corr_STR.RDS") +
+
+    annotate("rect", xmin = 0.4, xmax = 0.8, ymin = 0.5, ymax =6,  alpha = .1) +
+    annotate("rect", xmin = -0.4, xmax = -0.8, ymin = 0.5, ymax =6,  alpha = .1) +
+  
+  
+theme(axis.ticks.x = element_blank())
+
+
+str
+
+```
+
+
+
+::: {.absolute top=250 right=5}
+
+- Moderate to strong correlations (r > 0.4)
+:::
+
+[Data from: @RN1614;@RN730;@RN1431;@RN1618;@RN1619]
+
+
+::: {.notes}
+
+- This is because, soldiers' strength and endurance capacity are found to be associated with several occupational and combat like tasks.
+
+- to highlight that, I plotted data from several studies looking into this relationship.
+
+- and  we can see that maximal strength have been found to have a moderate to strong correlation with many combat-like tasks..POINT-examples, repeated lift, load carry, crawl, dig, movefast
+
+- meaning are you stronger you would also likely perform better in these military performance outcomes...
+
+- A strong argument for sustaining strength capacity during deployment and ensure military readiness
+
+:::
+
+
+## Determinants for military readiness {.smaller background-color="#107895"}
+
+### Strength and endurance factors
+
+
+Endurance capacity
+
+```{r corr3 end}
+#| echo: false
+#| fig-height: 4.0 
+#| fig-width: 6.0
+
+end <- readRDS(file="./derived/corr_END.RDS") +
+
+  annotate("rect", xmin = 0.4, xmax = 0.8, ymin = 0.5, ymax =3,  alpha = .1) +
+    annotate("rect", xmin = -0.4, xmax = -0.8, ymin = 0.5, ymax =3.5,  alpha = .1) +
+  
+    
+theme(axis.ticks.x = element_blank())
+
+end
+
+```
+
+::: {.absolute top=250 right=5}
+
+- Moderate to strong correlations (r > 0.4)
+
+:::
+
+
+[Data from: @RN1614;@RN730;@RN1431;@RN1618;@RN1619]
+
+
+::: {.notes}
+
+-  likewise the same is seen between endurance capacity and these military tasks.. POINT- run, loaded run, dig, crawl, casualty drag
+
+:::
+
+
+## Determinants for military readiness {.smaller background-color="#107895"}
+
+### Strength and endurance factors
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.r-stack}
+
+
+
+
+```{r corr str1}
+#| echo: false
+#| fig-height: 4.0 
+#| fig-width: 6.0
+
+str <- readRDS(file="./derived/corr_STR.RDS") 
+
+
+
+```
+
+
+::: { .absolute top=110 left=-40}
+
+Strength capacity
+
+```{r corr str}
+#| echo: false
+#| fig-height: 4.0 
+#| fig-width: 6.0
+
+str <- readRDS(file="./derived/corr_STR.RDS") +
+
+    annotate("rect", xmin = 0.4, xmax = 0.8, ymin = 0.5, ymax =6,  alpha = .1) +
+    annotate("rect", xmin = -0.4, xmax = -0.8, ymin = 0.5, ymax =6,  alpha = .1) +
+  
+    
+theme(axis.ticks.x = element_blank())
+
+str
+
+```
+
+- Moderate to strong correlations (r > 0.4)
+
+:::
+:::
+:::
+
+
+::: {.column width="50%"}
+
+::: {.r-stack}
+
+
+
+
+```{r corr1 end}
+#| echo: false
+#| fig-height: 4.0 
+#| fig-width: 6.0
+
+end <- readRDS(file="./derived/corr_END.RDS")
+
+  #  annotate("rect", xmin = 1.05, xmax = 1.8, ymin = 0.8, ymax = 1.2,  alpha = .2) +
+
+
+
+```
+
+
+
+
+::: {.absolute top=110 right=-40}
+
+Endurance capacity
+
+```{r corr end}
+#| echo: false
+#| fig-height: 4.0 
+#| fig-width: 6.0
+
+end <- readRDS(file="./derived/corr_END.RDS") +
+
+  annotate("rect", xmin = 0.4, xmax = 0.8, ymin = 0.5, ymax =3,  alpha = .1) +
+    annotate("rect", xmin = -0.4, xmax = -0.8, ymin = 0.5, ymax =3.5,  alpha = .1) +
+  
+    
+theme(axis.ticks.x = element_blank())
+
+end
+
+```
+
+- Moderate to strong correlations (r > 0.4)
+
+:::
+:::
+
+
+::: {.absolute bottom=-50}
+
+[Data from: @RN1614;@RN730;@RN1431;@RN1618;@RN1619]
+:::
+
+:::
+
+
+::::
+
+
+::: {.notes}
+
+- INTERESTINGLY, we see that several of these relationship overlaps between strength and endurance, for.example move fast, dig crawl, repeated lift, load carry...
+
+- meaning the soldier is dependent of both physical capacities and they need to train both capacities to optimize military readiness!!
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Military readiness {.smaller background-color="#107895"}
+
+### Determinants for military readiness
+
+::: {.r-stack}
+
+![](fig/new/ex_1_1.png){.fragment fragment-index=1 .absolute height="450" left=0}
+
+![](fig/new/ex_2.png){.fragment fragment-index=2 .absolute height="450" left=0}
+
+:::
+
+::: {.fragment fragment-index=3 .absolute bottom=50}
+
+- Multi-factor stresses on soldiers
+
+:::
+
+
+::: {.notes}
+
+- However, there is more determinant factors that will affect soldiers military readiness and also  challenge the maintenance of high physical fitness.. 
+
+- "click", with the increased intensity and complexity in the conflict area, moving towards the right side, additional factors will simultaneously increase and challenge soldiers military readiness "click".
+
+-These factors increases concurrently with the intensity of the conflict, such as, POINT, increases in sleep deprivation, energy deficit, recovery deficit, along with the duration of operations, and increases in physical strenous activitites. "click", 
+
+- This factors alone or in combination will induce a physiological stress on the soldier, which affects soldiers military readiness
+
+
+:::
+
+
+
+## Military readiness {.smaller background-color="#107895"}
+
+### Determinants for military readiness
+
+
+
+![](fig/new/environ_1.png){.fragment fragment-index=1 .absolute height="450" left=-15 top=110}
+
+
+
+::: {.notes}
+
+- Additionally, to these multi-stress factors, we have the impact of the environment the soldier operate in. Wherein cold climate can for.exemple compromise soldiers fine motor skill, resulting in reduced capability of shooting, hence reducing soldiers military readiness.. 
+:::
+
+## Consequences of being in a multi-stress environment {.smaller background-color="#107895"}
+
+::: {.r-stack}
+
+
+![](fig/new/conc_stress.png){.fragment fragment-index=1 .fade-in-then-out}
+
+![](fig/new/ex_envir1.png){.fragment fragment-index=2 .fade-in-then-out}
+
+![](fig/new/rightside.png){.fragment fragment-index=3}
+
+:::
+
+
+
+::: {.fragment fragment-index=3 .absolute bottom=5 left=-15}
+
+- These multi-stress factors are typically observed during field exercises
+:::
+
+
+
+::: {.notes}
+
+- "click", Consequently of beeing in this right side of the conflict continuum for extended times, "click" would be detrimental for the soldier as the physical fitness levels may decline (POINT) due to the impact of these stress factors and thus will also affects soldiers military readiness..
+
+-  To get an idea how the multi-stress factors affects the soldiers physical fitness and readiness, we have in several years performed field exercise studies.
+
+- "click", Field exercise studies is meant to train and prepare the soldier for the real world battlefield operations, and thus the soldier is exposed for several of these stressors experienced during high intensity conflicts, simultaneously...
+
+
+:::
+
+
+## Consequences of being in a multi-stress environment {.smaller background-color="#107895"}
+
+### The soldier is in a challenging position
+
+
+![](fig/solder_fucked.png){}
+
+[@RN1097;@RN1110;@RN1108]
+
+::: {.notes}
+
+- From these studies, we see that the soldiers body homeostasis is changing towards being in a more catabolic state...
+
+- wherein the body, will maintain its metabolism for vital processes at the expense of regeneration of functional body structures...
+
+:::
+
+
+
+## Consequences of bein in a multi-stress environment {.smaller background-color="#107895"}
+
+### The soldier is in a challenging position
+
+![](fig/solder_fucked_2.png){}
+
+::: {.fragment bottom=5}
+
+- Consequences are decreased physical/military performance
+
+- Can even jeopardize mission and lives 
+
+[@RN1460]
+:::
+
+::: {.notes}
+
+-  "click", Consequently, this may reduce physical and military performance, due to loss of skeletal muscle, loss of body mass, muscle function, , risk of injury, reduced cognitive function .
+
+- and it can even jeopardize mission and lives
+
+:::
+
+
+
+
+
+
+## Outline of talk {.smaller background-color="#107895"}
+
+- What is military operations?
+
+- The demand of the military soldier
+
+- Determinants for military readiness
+
+- **Benefit of maintaining physical fitness**
+
+- Training strategies during deployment to preserve physical fitness and military readiness
+
+- Practical application
+
+![](fig/new/new_mini_2.png){.absolute  height="250" bottom=0 right=0}
+
+
+::: {.notes}
+
+- So being able to maintain its physical fitness level IS OF IMPORTANCE, as these stress-factors will induced negative physiological changes in periods during deployment, especial towards the RIGTH side of the continuum, and thus compromise soldiers physical performance and readiness
+
+PAUSE
+
+
+- But, let us look into the short and long term benefits of maintaining this high physical fitness level during prolonged operations...
+
+:::
+
+
+
+## Benefits of physical fitness during deployment {.smaller background-color="#107895"}
+
+![](fig/benefit/pre.png)
+
+
+
+::: {.notes}
+
+- the short and long term benefit of maintained physical fitness need to be seen in conjunction with each other. As the long term benefit will dependent on how the short term benefits are achieved and sustained...
+
+- This is because the short term benefit will rely on how the deployment period evolve, in terms of frequency of operations where the soldier experience being in this muliti-stressor environment
+
+- So, I call this model a benefit continuum as short and long term benefits are interconnected...
+
+- OK, lets look at factors associated with maintained physical fitess during deployment..
+
+:::
+
+## Benefits of physical fitness during deployment {.smaller background-color="#107895"}
+
+
+
+![](fig/benefit/1.png)
+
+[@RN1014;@RN1622;@RN1623;@RN1024;@RN772;@RN1627;@RN1626]
+
+
+::: {.notes}
+
+- A main category which is enhanced with physical fitness, is the IMPROVED physical and mental resilience 
+
+- which is the soldiers ability to meet and coop the physical and mental demands of ANY combat or duty position
+
+
+:::
+
+## Benefits of physical fitness during deployment {.smaller background-color="#107895"}
+
+![](fig/benefit/2.png)
+
+[@RN1014;@RN1622;@RN1623;@RN1024;@RN772;@RN1627;@RN1626]
+
+::: {.notes}
+
+- this can eventually lead to better physical readiness; through maintained strength/power/and endurance-capacities
+
+:::
+
+## Benefits of physical fitness during deployment {.smaller background-color="#107895"}
+
+![](fig/benefit/3.png)
+
+[@RN1014;@RN1622;@RN1623;@RN1024;@RN772;@RN1627;@RN1626]
+
+::: {.notes}
+
+- With maintained fitness, the soldier will better cope with heavy-tasks duties during the deployment period
+
+:::
+
+
+
+
+## Benefits of physical fitness during deployment {.smaller background-color="#107895"}
+
+![](fig/benefit/4.png)
+
+[@RN1014;@RN1622;@RN1623;@RN1024;@RN772;@RN1627;@RN1626]
+
+::: {.notes}
+
+- Furthermore, physical fitness may enhance stress resilience
+
+:::
+
+## Benefits of physical fitness during deployment {.smaller background-color="#107895"}
+
+![](fig/benefit/5.png)
+
+[@RN1014;@RN1622;@RN1623;@RN1024;@RN772;@RN1627;@RN1626]
+
+  
+::: {.notes}
+
+- maintain cognitive function and memory
+
+:::
+
+## Benefits of physical fitness during deployment {.smaller background-color="#107895"}
+
+![](fig/benefit/6.png)
+
+[@RN1014;@RN1622;@RN1623;@RN1024;@RN772;@RN1627;@RN1626]
+
+::: {.notes}
+
+- and also reduce risk of muscle skeletal injuries
+
+:::
+
+
+## Benefits of physical fitness during deployment {.smaller background-color="#107895"}
+
+
+![](fig/benefit/7.png)
+
+[@RN1014;@RN1622;@RN1623;@RN1024;@RN772;@RN1627;@RN1626]
+
+::: {.notes}
+
+- Soldier may recover faster from operational stress
+
+:::
+
+
+## Benefits of physical fitness during deployment {.smaller background-color="#107895"}
+
+![](fig/benefit/8.png)
+
+[@RN1014;@RN1622;@RN1623;@RN1024;@RN772;@RN1627;@RN1626]
+
+::: {.notes}
+
+- and the soldier would also be more resilient towards rapid changes in the environment
+
+:::
+
+
+
+
+
+
+## Benefits of physical fitness during deployment {.smaller background-color="#107895"}
+
+![](fig/benefit/9.png)
+
+[@RN1014;@RN1622;@RN1623;@RN1024;@RN772;@RN1627;@RN1626]
+
+::: {.notes}
+
+- So, maintaining these fitness related attributes in relation to these short acute benefits,
+
+- The solder may also in longer run better tackle long periods experiencing physical and mental stress
+
+:::
+
+## Benefits of physical fitness during deployment {.smaller background-color="#107895"}
+
+
+![](fig/benefit/10.png)
+
+[@RN1014;@RN1622;@RN1623;@RN1024;@RN772;@RN1627;@RN1626]
+
+::: {.notes}
+
+- And better preserve perceived well-being and long term health
+
+- with reduced risk of developing diseases and infection
+
+:::
+
+## Benefits of physical fitness during deployment {.smaller background-color="#107895"}
+
+
+![](fig/benefit/11.png)
+
+[@RN1014;@RN1622;@RN1623;@RN1024;@RN772;@RN1627;@RN1626]
+
+::: notes
+
+And being better fit during deployment periods, has been associated with lower risk of developing PTS when they are coming home...
+
+:::
+
+
+
+## text {visibility="hidden"}
+
+::: {.notes}
+
+
+1.  Dyrstad et al.,2010 saw positive relationship with training volume and mental health following 12 months deployments (66% higher training volume). Dyrstad, S. M., Giske, R., Barlaug, D. G., & Pensgaard, A. M. (2010). Relationship between Soldiers’ Service Performance and Physical Training Volume. Journal of Military and Veterans Health, 18(2), 7–11. https://search.informit.org/doi/10.3316/informit.150816250977891
+
+2.  Fitness tests can also be used as metrics for other constructs of job success such as injury risk, attrition, absenteeism and mortality [p149 hauschild2017]
+
+This makes physiologic sense given that aerobic metabolism increasingly becomes the dominant source of energy for tasks lasting more than a few minutes (hauschil2017 p150)
+
+LBstrength is strongly correlated with more occupational tasks and therefore may be more important test consideration (hauschild2017)
+
+
+
+
+
+1. Short term- benefits of strength and endurance capacity, that would presumably perform better on the battlefield in accordance with these military task tests
+
+2. giving rise better performance on the battlefield
+
+3. continuum of benefit which will affects long term benefits of phsical fitness
+
+NINDL2018
+
+MALA: strong correlation between upper-lower body strength, power with better military performance in a combat tasks, load carriage 
+Strength and sprint and loaded running williams2020 
+strength maximal lifting capacity and repetitive lifting perofrmance pihlainen 2018
+
+- battlefield requires high intensity and explosive movements, than before..
+
+
+- Higher aerobic capacity --> a reduced relative task intensity (due to higher VO2max), 
+
+- Maintenance of aerobic fitness should be an imperative for military personnel [NINDL2018]
+
+
+[@RN157]
+
+[NINDL2018]
+
+greater aerobic capacity - longer task performance, greater capacity for repeated efforts.
+
+injury - is correlated with aeribic fitness level
+stress - correlated with lower stress levels, with lower hormonal and subjective stress reactivity in response to mili training...
+
+enhanced tolerance of mental and physical stress [NINDL 2014 panel]
+
+
+
+
+
+intro to benefits of phys fit
+- More emphazises om military tasks require muscle strength and power due to the amount of loaded marching, repetitive lifting, digging and carrying. Which can be optimized with enhanced strength [@RN1014;@RN1107] 
+
+- mote technology and transport equipment have advanced the modern battlefield, however, despite this the demand and performance of individual soldier is still dependent on their physiology..
+
+
+1. Increased combat load, the deployed soldier with its protective body armor and weapon systems can be as high as 55 kg. 
+which can decrease mobility, increased fatigue, degenerative changes and muscle soreness..
+
+2. But also mission require a prolonged stady state effort and repetitive tasks over periods. which also sets demands to the aerobic capacity system..
+
+3. High level of physical fitness and optimal body composition in combination with required occupation skills are significant factors for success in a military operational and deployed environment (Pihlainen2023). overgang, 
+
+
+
+This will be an increased demand relying on sodliers muscleskeletal and aerobic system..
+
+
+- Overgang til komme inn på effekten av styrke og utholdenhetstrening på soldatene..
+
+- Er mer krav til styrke og eksplosivitet (Kraemer 2012)
+
+- Men endurance er fremdeles viktig komponent for å imøtekomme kravene på battlefield
+
+
+:::
+
+
+## Outline of talk {.smaller background-color="#107895"}
+
+- What is military operations?
+
+- The demand of the military soldier
+
+- Determinants for military readiness
+
+- Benefit of maintaining physical fitness
+
+- **Training strategies during deployment to preserve physical fitness and military readiness**
+
+- Practical application
+
+
+![](fig/new/benefit.png){.absolute height="350" bottom=-5 right=0}
+
+
+
+::: {.notes}
+
+- So to be able to maintain physical fitness and achieve these benefit and hence sustain military readiness, we can use different training strategies which is implemented under these circumstances both under the LOW and HIGH conflict areas..  
+
+- Ok, so let us look into possible training strategies to use,  and what have been done before in some deployment studies
+
+:::
+
+## Strategies for maintaining physical fitness {.smaller background-color="#107895"}
+
+### Training principles
+
+![](fig/benefit/principles.png){}
+
+::: {.notes}
+
+
+- Ok, these training strategies revolve around three main principles designed to give your body the right kind of stimuli to trigger changes in your neuromuscular and cardiorespiratory system. 
+
+- And will thus have an effect on maintaining this physical fitness demand (point)
+
+- For.example, we can induce a stimuli to these body systems by including repeated bouts with progressive OVERLOAD, that subsequently would enhance structural adaptations over time.
+
+- We can also use the principle of specificity of training. Where we replicate the movement pattern of a specific task, which progressively increase in intensity. Over time this would stimulate the neurmuscular system to adapt and enhance performance in THAT specific task
+
+- And, to reduce training monotomy and stagnation in adaptations, the periodization strategy, is often applied in training plans. Wherein the purpose is to systematically vary in training modalities, exercise, intensity and volume, to ensure variation in training stimuli and thus enhance development of adaptations over time. This may also may reduce the potential for overtraining  
+
+
+:::
+
+## Strategies for maintaining physical fitness  {.smaller background-color="#107895"}
+
+### Periodization training strategy
+
+
+![](fig/benefit/principles.png){.absolute height="250" bottom=2 right=0}
+
+
+::: {.absolute top=160}
+
+- Recommended for soldiers both before and during deployment [@RN1628;@RN1014]
+
+- Block periodization of different training focus (strength, endurance, power ect.) in shorter periods (mesocycles)
+
+:::
+
+::: {.fragment .absolute top=300}
+
+- Shown to be a effective training model for enhancing physical fitness in athletes [@RN1029]
+
+- For both strength and endurance capacities [@RN818]
+
+
+
+:::
+
+::: {.notes}
+
+- In particular have the periodization model, block periodization, been recommended for soldiers to use both before and during deployment periods
+
+- With block periodization the soldier can in different periods work with different focus, with the aim to maximize a physiological capacity, while maintaining other capacities simultaneously
+
+- "click", this has frequently been shown to be effective in athletes
+
+- and has shown to improve both strength and endurance capacitites simultainously, which is of importance since soldiers need to maintain both capacities to ensure military readiness
+
+
+
+:::
+
+
+
+## Training strategies {.smaller background-color="#107895"}
+
+### Possible to train systematic over time?
+
+![](fig/benefit/continuum.png){}
+
+
+
+::: {.notes}
+
+- But we know that the soldiers is in a challenging position, as the degree of the conflict continuum would vary with the present of single of multiple-stress factors that consequently would put the soldier in a more maladaptive state..
+
+
+- BUT, what happens to physical fitness levels and body composition during prolonged operations where soldier is deployed...
+
+- To get an idea to this, let us look at some of these deployment studies
+
+
+:::
+
+
+## Prolonged operations in the literature {.smaller background-color="#107895"}
+
+### "The bigger picture"
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](fig/new/deploy.png){.fragment fragment-index=1 .absolute left=0 top=180 width="480"}
+
+
+::: {.fragment fragment-index=1 .absolute bottom=80}
+-   Prolonged military operations (deployment) 
+      - has duration of 3-15 months in the literature
+     
+    
+:::
+
+
+
+:::
+
+
+::: {.column width="50%"}
+
+![](fig/iraq.png){.fragment .fade-in fragment-index=3 .absolute right=0 top=150 width="480"}
+
+::: {.fragment fragment-index=3 .absolute bottom=60}
+
+ - Deployed in Afghanistan, Chad, Lebanon, Iraq, Kosovov
+
+[@RN1460]
+
+:::
+
+:::
+
+
+::::
+
+
+::: {.notes}
+
+1. These prolonged operations are described with a range from 3-15 months of duration,"click", where they are deployed in Afghanistan, Chad, Lebanon, Iraq, Kosovov
+
+2. These deployment studies have predominately been operated in this middle-lower end of the conflict continuum (left side point)
+
+:::
+
+
+## What is seen during deployments in changes in physical fitness {.smaller background-color="#107895"}
+
+:::: {.columns}
+
+::: {.column width="65%"}
+
+::: {.r-stack}
+
+::: {.fragment fragment-index=1 .fade-in-then-out}
+
+```{r phys1}
+#| echo: false
+#| fig-height: 5.0 
+#| fig-width: 7.0
+
+readRDS(file="./derived/physical.RDS") 
+```
+:::
+
+::: {.fragment fragment-index=2}
+
+```{r phys2}
+#| echo: false
+#| fig-height: 5.0 
+#| fig-width: 7.0
+
+readRDS(file="./derived/physical.RDS") +
+  
+    annotate("rect", xmin = -5, xmax = 5, ymin = 0.8, ymax = 17.5,  alpha = .2)
+```
+:::
+
+:::
+
+
+[Created from: @RN1580]
+
+:::
+
+
+::: {.column width="35%"}
+
+::: {.fragment fragment-index=2}
+
+  - Strength and Power in general not that negatively affected
+  
+:::    
+    
+::: {.fragment fragment-index=3}
+  - Aerobic performance decrements
+  
+  - In general some variation (shaded area = ± 7% margin)
+  
+:::
+
+
+:::
+
+
+::::
+
+
+::: {.notes}
+
+- Lets us first look at changes in physical performance parameters following deployment periods
+ 
+- "click", So, I plotted data from different deployment studies, seen on the y-axis, and percent change on the x-axis
+
+1.  the overall impression is that, "click", 
+
+2. Strength and power are not that negatively affected of the deployment period, seen as greater than 7% increase in strength in general, indicated by this shaded area, althoug with less pronounced changes in power...
+
+3. "click", While aerobic performance seems to decline more during deployment, as indicated on left side of this shaded area
+
+4. However, there is variation between studies seen in these outcomes...
+
+:::
+
+
+## What is seen during deployment studies in changes in body composition {.smaller background-color="#107895"}
+
+:::: {.columns}
+
+::: {.column width="65%"}
+
+::: {.r-stack}
+
+::: {.fragment fragment-index=1 .fade-in-then-out}
+
+```{r body1}
+#| echo: false
+#| fig-height: 5.0 
+#| fig-width: 7.0
+
+
+readRDS(file="./derived/comp.RDS")
+  
+# consider to include range data
+
+```
+
+:::
+
+::: {.fragment fragment-index=2}
+
+```{r body2}
+#| echo: false
+#| fig-height: 5.0 
+#| fig-width: 7.0
+
+
+readRDS(file="./derived/comp.RDS") +
+  
+      annotate("rect", xmin = -4, xmax = 4, ymin = 0.8, ymax = 17.5,  alpha = .2)
+  
+# consider to include range data
+
+```
+
+:::
+
+
+
+:::
+
+[Created from: @RN1580]
+
+:::
+
+::: {.column width="35%"}
+
+::: {.fragment fragment-index=2}
+
+- Less than 4% change in body mass and muscle mass over these prolonged periods (shaded area = ± 4% margin)
+:::
+
+::: {.fragment fragment-index=3}
+- Changes in both directions 
+:::
+
+::: {.fragment fragment-index=4 }
+
+- Larger variation in fat mass changes
+:::
+
+
+:::
+
+
+
+::::
+
+
+::: {.notes}
+
+- For the body composition
+
+-"click", in general, there was less than 4% change in body mass and muscle mass over these prolonged periods (most values within this shaded area indicating = 4% margin)
+
+- "click", the changes are going in both directions of the dashed line
+
+- "click", and, a larger variation in fat mass is seen between studies
+
+
+:::
+
+
+
+
+## Characteristics of deployment studies {.smaller background-color="#107895"}
+
+
+Deployment duration and country
+
+```{r duration}
+#| echo: false
+#| fig-height: 5.0 
+#| fig-width: 7.0
+
+readRDS(file="./derived/duration.RDS")
+  
+
+```
+
+
+- Affecting outcomes from deployment studies:
+
+- Duration of deployment period
+- Countries (environments)?
+
+
+::: {.notes}
+
+- This variation in outcomes, could be related to different duration in deployment periods
+
+- ranging from 3 months up to 15 months of duration
+
+:::
+
+
+
+
+
+## Characteristics of deployment studies {.smaller background-color="#107895"}
+
+Post-deployment measure
+
+```{r delay}
+#| echo: false  
+
+
+
+readRDS(file="./derived/delayed.RDS")
+
+
+```
+
+::: {.fragment}
+
+ Affecting outcomes from deployment studies:
+
+  - delay of measurements post deployment
+  - range 0 to 60 days
+  - 209 days in Sharp et al 2008
+:::
+  
+
+::: notes
+
+- there is also large variation between studies when the post-deployment measure is performed
+
+- "click", ranging from 0-60 days in general
+
+- and even larger i sharp et al
+
+:::
+
+
+
+## Why this drop in aerobic capacity {.smaller background-color="#107895"}
+
+### Training volume drops
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.fragment fragment-index=1}
+
+Reduction in solders endurance training during deployment
+  
+Lester 2010      - 88% vs **29%** 
+       
+Sharp 2008       - 80 vs **35%**  
+
+Rintamaki 2012   - 11%
+
+Warr 2013        - 57%
+
+:::
+
+::: {.fragment fragment-index=3}
+
+- Aerobic training is not prioritized these years, due to low air quality 
+
+- Respiratory health concerns?
+
+- Initially fitness level?
+
+[@RN1635;@RN1636]
+
+:::
+
+:::
+
+
+::: {.column width="50%"}
+
+::: {.fragment fragment-index=2}
+
+Strength - less change between pre vs during deployment
+
+Lester 2010      - 63% vs 44% 
+       
+Sharp 2008       - 58% vs 56%  
+
+Rintamaki 2012   - 13%
+
+Warr 2013        - 67%
+
+:::
+
+
+:::
+
+::::
+
+
+::: {.notes}
+
+- But, why this drop in aerobic capacity, "click",
+
+- We see that some early studies around 2010, soldiers report to train less aerobic during deployment compared to garrison duty.
+
+- 88 percent of soldies trained under garrison, pre-deployment
+- while 29% performed endurance training deployed
+
+- Hence the training volume drops...
+
+- "click", Whereas for strength there is a lower or no drop between pre and deployment..
+
+- Why is it so, "click", one reason could be the low air quality in these countries and the solders were actually obligated not to perform aerobic exercise due to respiratory health concerns.
+
+- another, reason, which is speculated upon in the papers, could be related to that better fit soldiers entering deployment period does not have sufficient training stimuli during deployment to maintain their capacity..
+
+- while the more sustained or improved strength outcomes, could in this regard, be related to lower fit soldiers entering the deployment period, and achieved adaptations by repeated overload stimulus by doing more heavy task assignment during the deployment period
+
+:::
+
+
+## Summary slide of deployments studies {.smaller background-color="#107895"}
+
+::: {.fragment}
+- Body composition is not that affected over these prolonged deployment periods
+:::
+
+::: {.fragment}
+- Aerobic capacity seems to decline more than strength capacity
+:::
+
+::: {.fragment}
+- There are large heterogeneity between deployment studies in duration and measurements time points
+:::
+
+::: {.fragment}
+- Makes it challenging to draw valid conclusions
+:::
+
+
+
+::: {.notes}
+
+To sum up these deployment studies;
+
+- read on slide
+
+
+
+- Typically where there are large changes can be due to PA time...
+
+- Initial fitness level something to say, large variation in fitness level
+
+:::
+
+
+## Physical training during deployment {.smaller background-color="#107895"}
+
+![](fig/new/benefit.png){}
+
+::: {.notes}
+
+- Independent, of when or how the soldiers where measured in these outcome parameteres after the deployment period, there seems to be some variation whether the soldier maintain or lose physical fitness during deployment periods...
+
+
+- So to be able to maintain physical fitness, where in this conflict continuum is it more optimal to train systematic over time 
+
+
+::: 
+
+
+## Physical training during deployment {.smaller background-color="#107895"}
+
+### Can more optimal training conditions be achieved during deployment?
+
+
+::: {.r-stack}
+
+![](fig/new/strategies_low.png){.fragment fragment-index=1 .fade-in-then-out .absolute height="450" left=0}
+
+
+![](fig/new/strategies_low_stress.png){.fragment fragment-index=2 .absolute height="450" left=0}
+:::
+
+::: {.fragment fragment-index=2 .absolute bottom=0}
+
+- Lowest conflict level
+
+- Probably most feasible time to implement systematic training
+
+:::
+
+::: {.notes}
+
+- "click", AND, it is most likely in the left end of the conflict continuum, towards the stable peace conditions...
+
+- "click", wherein the impact of each of these stress factors are lowest in intensity..
+
+:::
+
+
+## Physical training during deployment {.smaller background-color="#107895"}
+
+### Can more optimal training conditions be achieved during deployment?
+
+
+![](fig/benefit/stress.png){}
+
+- Sustained low level of conflict
+- Minimal with combined multi-stressor factors
+
+
+::: {.notes}
+
+- For when the conflict level is low for longer periods (point) and the intensity of stress factors is minimal, the soldier is more likely in a more homeostaic balance
+
+- hence this is probably the closes they can come to an anabolic window over time, wherein the body can adapt to a training stimuli more optimal..
+
+:::
+
+
+## Training during prolonged operation {.smaller background-color="#107895"}
+
+### A study demonstraining the importance of training during deployment
+
+![](fig/new/strategies_low_stress.png){}
+
+
+::: {.notes}
+
+- So, let us look into a couple of studies which have reported to have performed systematic training during a deployed period..
+
+- These studies were interpreted as being in the low conflict area of the continuum with presumably few external stressors beeing present in combination during the time deployed
+
+:::
+
+## Training during prolonged operation {.smaller background-color="#107895"}
+
+### The importance of training
+
+Warr et al 2013  
+
+- 88 soldiers joined the study
+- Unknown place and duration of deployment
+- The measurements were conducted 10 days after homecoming
+- Reporting training frequency performed during deployment period
+
+
+
+
+
+::: {.notes}
+
+- Warr and collueges included 88 soldiers in this study..
+
+- They did not report where these soldiers were deployed or for how long
+
+- The measurements were reported 10 days after homecoming
+
+
+- The purpose of the study, was to measure training frequency and changes in performance and perceived health following the deployment period
+
+- "click", next slide
+
+:::
+
+
+## Training during prolonged operation {.smaller background-color="#107895"}
+
+### The importance of training
+
+
+Reported training frequency during the deployment:  
+
+::: {.fragment}
+- Aerobic training: 57% of the soldiers reported >= 3 times per week
+:::
+
+::: {.fragment}
+- Strength training: 67% of the soldiers reported >= 3 times per week
+:::
+
+::: {.notes}
+
+- Following the period 57% of the soldiers reported to have trained >= 3 times per week in aerobic training
+
+- "click",and, 67% reported they had trained >= 3 times per week in strength training
+:::
+
+
+## Training during prolonged operation {.smaller background-color="#107895"}
+
+### The importance of training
+
+Performance:  
+
+::: {.fragment .fade-in-then-semi-out}
+- Greater changes in aerobic capacity with higher training frequency (>3 wk)
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+- Greater changes in strength (upper-body) with higher training frequency (>3 wk)
+:::
+
+::: {.fragment}
+- Reduced fat mass and increased muscle mass
+:::
+
+::: {.fragment}
+
+- Changes in body composition occurred independent of training frequency during the deployment
+:::
+
+
+::: {.notes}
+
+- and those with greater training frequency also had greater aerobic capacity at homecoming..
+
+- "click", and the same was seen for strength
+
+- "click", the soldiers reduced fat mass and increased muscle mass during the period
+
+- "click", while this occurred independent of training frequency during the deployment
+
+:::
+
+
+## Training during prolonged operation {.smaller background-color="#107895"}
+
+### The importance of training
+
+Health: 
+
+::: {.fragment .fade-in-then-semi-out}
+  - Greater training frequency of aerobic training was associated with better percieved health status post deployment 
+:::
+
+::: {.fragment}
+  - Study demonstrates the importance of maintain training during deployment on physical fitness and perceived health
+:::
+
+
+::: {.notes}
+
+- For the health factor...
+
+- "click", Close to 3 times as many soldiers reported better health status post deployment when having over 3 sessions per week in endurance training.
+
+- "click", This study shows the importance of having regular training during deployment, showing it is possible to maintain physical performance and health status,
+
+- and, IMPORTANTLY probably can sustain prolonged military readiness under deployment periods.
+
+
+:::
+
+
+## Training during prolonged operation {.smaller background-color="#107895"}
+
+### Deployed in Lebanon for 6 months
+
+Pihlainen et al 2022   
+
+- Long term effects of combined strength and endurance training on body composition and physical performance.
+
+::: {.fragment fragment-index=2}
+
+- During deployment:  
+
+    - Activities were patrolling, observations outside the military base, duties inside the camp
+    - Low intensity during the stay, but obligated to maintain operative readiness - so some psychological stress of the soldier
+    
+:::
+
+
+![](fig/benefit/stress.png){.fragment fragment-index=1 .absolute width="500" right=0 bottom=0}
+
+
+
+
+::: {.notes}
+
+- In another study, Pihlainen and collegues investigated a periodization model during deployment for six months.
+
+- Wherein they wanted to explore the effect of COMBINING strength and endurance training on changes in body composition and physical performance with systematic training over time.
+
+- "click", This study was also performed in the low area of conflict, interpreted as minimal combination of stress factors "click".
+
+- Due to the authors describes the period, consisted predominantly of low intensity activities. With activities such as patrolling, observation outside the military base, and duties inside the base.
+
+- But the soldiers were obligated to maintain operative readiness - so some psychological stress of the soldier could be present
+
+:::
+
+## Training during prolonged operation {.smaller background-color="#107895"}
+
+### Periodization model
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.fragment .fade-in-then-semi-out}
+
+- 78 male soldiers
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+- Performed block-periodization training
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+Split into three experimental groups:
+:::
+
+::: {.fragment .fade-in-then-semi-out} 
+- Trad: 2 strength and 2 endurance session
+:::
+
+::: {.fragment .fade-in-then-semi-out}    
+- Strength focus group, 3 strength + 1 endurance session
+:::
+
+::: {.fragment .fade-in-then-semi-out}    
+- Endurance focus group, 3 endurance + 1 strength session
+:::
+    
+::: {.fragment .fade-in-then-semi-out}    
+ - Control group, reporting their training
+:::    
+    
+
+
+[@RN1581]
+
+:::
+
+
+
+
+
+
+::::
+
+
+
+::: {.notes}
+
+- Pihlainen included 78 soldiers
+
+- read on slide after group,say
+
+- these 4 session were individually chosen when to be performed over two weeks periods throughout deployment,
+
+
+
+
+:::
+
+## Training during prolonged operation {.smaller background-color="#107895"}
+
+### Periodization model
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+In average the soldiers performed 3.2 training session per week during the period
+
+Overall all, the training groups improved:
+
+::: {.fragment .fade-in-then-semi-out}
+
+ - Muscle mass
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+- Maximal isometric force (lower body)
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+ - Military task performance test
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+ - Maintained endurance performance
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+ - Maintained body mass
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+   
+- Control also observed positive changes
+
+::: 
+    
+ 
+:::
+
+
+::: {.column width="50%"}
+
+::: {.fragment .fade-in-then-semi-out}
+- Authors observed large variation between individual responses
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+- Different fitness levels at baseline
+- Suggesting importance of individual programs
+:::
+
+:::
+
+::::
+
+
+::: {.notes}
+
+- Results:  
+
+- In average the soldiers performed 3.2 training session per week during the period
+
+- AND, Overall all, the training groups improved:
+
+read on slide until col 2:  
+
+
+1.  The author observed large variation in training responses
+
+2. Suggesting different fitness levels at baseline, and adresses the need for individual programs.
+
+
+
+:::
+
+## Training during prolonged operation {.smaller background-color="#107895"}
+
+### Periodization model
+
+*In summary*  
+
+::: {.fragment}
+
+- Training in average 3 times per week of combined strength and endurance training during deployment
+:::
+
+::: {.fragment}
+- Soldiers maintained endurance, strength parameters and improved military task performance
+
+:::
+
+::: {.fragment}
+
+Training systematic during low conflict levels seems to maintain physical fitness in soldiers
+
+:::
+
+::: {.notes}
+
+- So in summary:
+
+- "click", Training in average 3 times per week of combined strength and endurance training during deployment
+
+- "click", soldiers managed to maintain endurance, strength parameters and improved military task performance
+
+- "click", SO, Training systematic during low conflict level seems to maintain physical fitness in soldiers
+
+::: 
+
+
+## Task specific training during deployment {.smaller background-color="#107895"}
+
+### "Train as you will fight"
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+- Replicate the movement pattern experiencing on the battlefield
+
+::: {.fragment}
+
+Why this training focus:  
+
+
+- Neuromuscular system is primed for the specific physical performance movements
+
+:::
+
+::: {.fragment}
+- Sustained force out put
+
+:::
+
+::: {.fragment}
+- Decrease risk of injury
+
+:::
+
+::: {.fragment}
+- Better prepared to handle the battlefield military tasks and requirements (military readiness)
+
+:::
+
+
+
+[@RN1458;@RN1431;@RN1631;@RN1632]
+
+:::
+
+
+::: {.column width="50%"}
+
+![](fig/pic.png){}
+
+:::
+
+
+::::
+
+
+::: {.notes}
+
+- Another training strategy which can be implemented during deployment, is the task specific training, aligning with the idea of "train as you will fight."
+
+1. Throughout time load carriage has shown to be an essential occupational task for soldiers during military operations. 
+
+2. "click", Meaning there is a need to specific train for this loading task, which can be done by performing similar repetitive loading movements in the training programs, thus facilitating the neuromuscular system to adapt and then perform better in that particular movement task..
+
+3. "click" This can eventually lead to better sustained force output, as the task would be relatively easier to perform with the soldiers better skill performance
+
+4. "click" repeated movement training, can also reduce risk of injury
+
+5. "click" consequently, the soldier would be better prepared to handle the battlefield military tasks and requirements (military readiness)
+
+6. this specificity of training on improving occupational tasks, was investigated in a military population by Ojanen.
+
+
+- To highlight the physical demands of soldiers' job tasks, the principle of specificity is key, aligning with the idea of "train as you will fight."
+
+
+:::
+
+
+## Task specific training during deployment {background-color="#107895"}
+
+### "Train as you will fight"
+
+
+Ojanen et al 2020
+
+- Included 42 soldiers
+- 12 week training study
+- Military environment
+
+::: {.fragment}
+
+- Allocated to either:  
+
+    - Tasks specific group; full combat gear (27kg), performing sprints, crawling, and casualty drag (high intensity effort)
+    - Strength group: traditional resistance training program (1-15 RM)
+    - control group: regular military training, circut training
+
+:::
+
+::: {.notes}
+
+
+- They inclued 42 soldiers
+- which trained for 12 weeks
+- it was conducted in a military environment, but not deployed
+
+"click", read group on screen
+
+
+ 
+
+:::
+
+## Task specific training during deployment {background-color="#107895"}
+
+### "Train as you will fight"
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+Test:  
+
+- Several strength and power measures  
+
+Task specificity test:  
+
+- Military task performance test consisted of sprints, crawling, carrying objects, casualty evacuation.
+
+:::
+
+
+::: {.column width="50%"}
+
+![](fig/ojanen.png)
+
+:::
+
+
+::::
+
+::: {.notes}
+
+- They had multiple test for strength and power
+
+- But to test training specificity to combat like tasks, they included a simulated task specific training course
+
+- Starting with a sprint, followed by crawling, loaded carry with a kettlebell, and a casualty drag, and ended with a sprint..
+
+:::
+
+
+## Task specific training during deployment {background-color="#107895"}
+
+### "Train as you will fight"
+
+::: {.r-stack}
+
+![](fig/ojanen_res_1-1.png)
+
+![](fig/ojanen_res_3_3.png)
+
+:::
+
+::: {.fragment}
+
+- Task specific group and strength group improved performance more than control (6 weks)
+
+:::
+
+
+::: {.fragment}
+- Able to maintain performance the last 6 weeks
+
+:::
+
+::: {.fragment}
+
+- Doing task specific training are an alternative to resistance training during deployment
+:::
+
+
+::: {.notes}
+
+- "click", The task specific training group and traditional strength training group, improved more in the simulated military task course, compared to a control group after the first 6 weeks (point on groups, time went down in these groups)
+
+- They also observed. that the task specific training group, displayed greater improvements in most part of the course compared to the strength group, THUS highlighting the specificity of the task specific training program.
+
+- "click",They, also maintained physical fitness and task course performance, despite of high amount of field training and decreased number of training session the last 6 weeks. 
+
+"click" - This study illustrates, when only few training options are available, task specific training are a good alternative to regular resistance training to promote and maintain physical fitness level for the deployed soldier...
+
+
+
+- [Knapnik et al. 2012 (meta-analyses), supports the effects of task specific training on improving military occupational task]{.alert}
+
+:::
+
+
+
+## Training strategy {.smaller background-color="#107895"}
+
+### Maintain physical fitness as good as possible during deployment {.smaller background-color="#107895"}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](fig/new/minimaldose.png)
+
+:::
+
+
+::: {.column width="50%"}
+
+- Minimal dose needed?
+
+::: {.fragment}
+
+- 1 moderate to hard session per week has shown to:
+    
+    - maintain strength capacity [@RN1622]
+    - maintain endurance capacity [@RN1624]
+
+:::
+
+:::
+
+
+::::
+
+
+::: {.notes}
+
+- Furthermore during these low intensity area of the continuum, a minimal dose could also be a useful strategy to sustain fitness over time
+
+2. "click", There is know form athletic studies that, 1 session with moderate to hard intensity per week, can maintain strength and endurance capacities, with residual effects that can last up to 3 weeks or more
+
+
+3. SO, with a tight schedule during the week, one session may be enough over several weeks to maintain soldiers physical fitness
+
+:::
+
+
+## Training strategy {.smaller background-color="#107895"}
+
+### Stable peace - low conflict intensity
+
+
+![](fig/new/strategies_low_stress.png){}
+
+::: {.notes}
+
+- So, training strategies implementing overload, periodisation and task specific training seems to be strategies that can maintain physical fitness for the soldier during deployment, at least when the conflict intensity is low and the stress factors is low, POINT..
+
+:::
+
+
+
+## Training strategy {.smaller background-color="#107895"}
+
+### Increased events of operations during deployment 
+
+
+![](fig/new/strategies_high.png){}
+
+- Fast changing situations, demands quick response time during deployment
+
+- Currently there are no military standards for physical training during deployment [@RN1581]
+
+
+::: {.notes}
+
+- But how do we implement training strategies when we move along the conflict continuum, with more frequent high intensity operations during deployment which demands quick response times (POINT), and reduced possibility for systematic training over time
+
+- currently there is no established military standards for physical training during deployment in these side of the conflict continuum...
+
+:::
+
+
+## Increased events of operations during deployment {.smaller background-color="#107895"}
+
+### Minimize the drop in soldiers physical fitness
+
+
+![](fig/new/mini_high_s.png){}
+
+
+- Sustain physical fitness?
+
+- Maintain military readiness over time?
+
+
+
+
+
+::: {.notes}
+
+- However, we know that the demand for physical fitness must be high irrespective of conflict level to sustain optimal military readiness.
+
+- But we also now, that the determinants for military readiness, these stress factors, would increase concurrently with the intensity of the continuum
+
+- and, this continuously challenge the soldiers to maintain the demand of high physical fitness..
+
+- and repeated operations in *series* (POINT) would probably reinforce this decline in physical fitness over time...
+
+- and hence reduce soldiers military readiness
+
+:::
+
+
+## Military operation simulation studies {.smaller background-color="#107895"}
+
+### Field exercises
+
+
+![](fig/new/strategies_high_stress.png){.absolute top=50, right=-5 width="400"}
+
+::: {.r-stack}
+
+::: {.fragment fragment-index=1 .fade-in-then-out .absolute left=0}
+
+```{r field1}
+#| echo: false
+#| fig-height: 5.0 
+#| fig-width: 7.0
+
+
+readRDS(file="./derived/fexe.RDS")
+  
+ 
+
+```
+:::
+
+::: {.fragment  fragment-index=2 .absolute left=0}
+
+
+```{r field2}
+#| echo: false
+#| fig-height: 5.0 
+#| fig-width: 7.0
+
+
+readRDS(file="./derived/fexe.RDS") +
+  
+     annotate("rect", xmin = -40, xmax = -0.1, ymin = 0.1, ymax = 5,  alpha = .1)
+
+```
+
+:::
+
+:::
+
+
+::: {.fragment fragment-index=2 .absolute bottom=25 left=0}
+
+- Large changes following field exercises (2-10 days)
+:::
+
+
+::: {.notes}
+
+- To get an understanding of what exactly happens with soldiers physical fitness during high-intensity operations, we can look into these military field studies. To get an idea what happens with body composition and physical performance in repose to these exercises,
+
+- As we remember; these field exercises are exposing the soldier in combination of the stressors during non-deployment periods (POINT), to prepare and train the soldier for similar situation on the real-life battlefield..
+
+- "click", SO, I plotted data from field studies to get an impression on what happens in body composition and performance outcomes..
+
+- with authors on the y-axsis and percent change on the x-axis... 
+
+- "click", as we can see, there is substantial changes in body composition and physical performance following field exercises,
+
+- point; there is seen up to 10% decline in body mass, 40% loss in fat mass and 1-3% loss of muscle mass
+
+- AND, performance decline from 5-30%, in jump height or strength
+
+- THESE changes occurs after only few days exposed to a stressful environment
+
+:::
+
+
+
+## Military operation simulation studies {.smaller background-color="#107895" visibility="hidden"}
+
+### Special support and reconnaissance
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+- Different demands than field exercises
+
+::: {.fragment}
+
+- Typically characterized with:
+
+    - Minimal with movement and activity
+    - Restricted space for extra equipment
+    - Restricted space for supplies
+:::
+
+
+:::
+
+
+::: {.column width="50%"}
+
+
+![](fig/new/drop.png)
+
+- Challenges soldiers physical fitness
+
+:::
+
+
+::::
+
+
+::: {.notes}
+ 
+ - Furthermore we also see similar changes, but in a different soldier occupation, namely the soldiers performing the support and reConNeniSsance operations
+ 
+ - However they are facing other physical demands:"click"
+ 
+ - These soldiers are laying STILL up to 24H/d over days with limited nutrition, due to limited storage for food and limited space to move on
+ 
+- hence, it may reduces soldiers physical fitness over time
+
+- To get an idea how this develop, Thorlund et al explored this event
+
+:::
+
+
+## Military operation simulation studies {.smaller background-color="#107895" visibility="hidden"}
+
+### Unloading in solders during simulated reconnaissance missions
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+Thorlund et al 2010  
+
+- Including 9 men from Danish national guard
+- Well familiarized with support and reconnaissance missions
+
+
+:::
+
+
+::: {.column width="50%"}
+
+::: {.fragment}
+
+Intervention:  
+
+- Performed 8 days in an prone position on an observation point
+- Measurements was taken pre and immediately post 8 days
+
+:::
+
+
+:::
+
+
+::::
+
+
+::: {.notes}
+
+read on slide:
+ 
+1. the author included 9 men from Danish national guard
+
+2. they were Well familiarized with support and reconnaissance missions
+
+"click"
+
+:::
+
+## Military operation simulation studies {.smaller background-color="#107895" visibility="hidden"}
+
+### Unloading in solders during simulated reconnaissance missions
+
+Measurement outcomes:  
+
+- Maximal voluntary contraction, peak force
+- Rate of force development
+- Jump height
+- Biopsy for muscle type changes
+- Body composition measurement
+
+
+::: {.notes}
+
+- read on slide
+ 
+:::
+
+
+## Military operation simulation studies {.smaller background-color="#107895" visibility="hidden"}
+
+### Unloading in solders during simulated reconnaissance missions
+
+After 8 days of unloading:  
+
+::: {.fragment .fade-in-then-semi-out}
+- 11% loss of strength
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+- 10% decline in jump height
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+- ~22% decline in rate of force development
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+- Reduced body mass due to loss of muscle mass
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+- Change in fiber type towards type IIx (less fatigue-resistant)
+:::
+
+
+::: {.notes}
+
+- Read on slide results, then:
+
+- LAst on slide say; So 8 days of unloading, led to marked reduction in muscle function performance, which will have consequences for soldiers ability to move fast in evacuation situations...
+
+
+::: 
+
+## What can we learn from these field studies simulating extreme operations during deployment {.smaller background-color="#107895"}
+
+::: {.notes}
+
+- read headline
+
+:::
+
+## What can we learn from these field studies simulating extreme operations during deployment {.smaller background-color="#107895"}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+::: {.fragment .fade-in-then-semi-out}
+
+- There is likely to be a drop in physical fitness and muscle performance during these extreme conditions
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- It is often related to multiple-stressor in combination for periods
+
+:::
+
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Difficult to avoid
+
+:::
+
+
+
+
+:::
+
+
+::: {.column width="50%"}
+
+::: {.fragment .fade-in-then-semi-out}
+
+![](fig/benefit/drop.png){.fragment fragment-index=1 .absolute height="250" right=0 top=200}
+
+:::
+
+:::
+
+::::
+
+::: {.notes}
+
+
+Read on slide først, then figure
+
+
+- So, is there strategies to prepare the soldier for this drop occurring in response to more high intensity operations
+ 
+- and, to maintain physical fitness as high as possible during this high intensity conflict level (point?)..
+ 
+:::
+
+
+
+## Flexible periodization model during deployment {.smaller background-color="#107895"}
+
+### More chooices for the soldier is needed!
+
+::: {.r-stack}
+
+
+![](fig/new/flex.png){.fragment fragment-index=1 .absolute height="380" left=0 bottom=-5}
+
+
+![](fig/benefit/new_again.png){.fragment fragment-index=2 .absolute height="400" left=0 bottom=-5}
+:::
+
+
+- Soldiers need more flexibility than athletes [@RN1628;@RN1014]
+
+- Acute situations and stressors affects soldiers readiness for training
+
+
+::: {.notes}
+
+- Well as we know, due to the soldier may not be in a physiologically optimal state to train systematically every week, because of the increased intensity and complexity with the conflict level, The soldier need more flexibility in their training plan in such periods."click"
+
+- so by having more flexible session, POINT, which can be performed on a day to day basis depending on circumstances and how the soldiers physiologically state is, is an interesting method
+
+- "click show", This could be a more optimal training strategy for the soldier, wherein sessions can be performed between these demanding operations, wherein a training window is possible.
+
+- This is likely the closet the soldier can come to an anabolic window, where the stress factors is minimized during times where there is more frequent operations occurring
+
+- And thus, gives the soldier an opportunity to maintain his physical fitness
+
+:::
+
+
+## Flexible periodization model during deployment {.smaller background-color="#107895"}
+
+### Suggestion of a flexible program
+
+![](fig/new/flex_mod.png)
+
+::: {.notes}
+
+- So, an example of a possible model for this flexibility I draw up this model.. .
+
+- Over a given mescocyle (i.e. 6 weeks) the soldier, together with his commandor, have set a specific training goal which the soldier try to maintain or even improve if possible.
+
+- Then the soldier have three alternative session to switch between; hard, moderate and easy session, which varies in intensity and volume
+
+- then the individual soldier choose which session to conduct on a day to day basis, taken into account their physiological state and which stressors they have operated in the last days...
+
+- for.exe, on hard and long day in the field, they choose the easy session, with focus on UB strength for instance
+
+- while another day, feeling more recovered, a hard session program can be performed, for.ex 2-days in a row in this time window
+
+
+:::
+
+
+## Micro training strategy {.smaller background-color="#107895"}
+
+### A good idea to implement for soldiers?
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](fig/benefit/new_again.png){ .absolute height="300" left=0}
+
+:::
+
+
+::: {.column width="50%"}
+
+::: {.absolute top=180}
+
+- Time restriction
+
+- Very short training session - any effect?
+
+:::
+
+:::
+
+
+::::
+
+
+
+
+::: {.notes}
+
+- In conjunction to this limited time window between operations, short-micro training cycle method could be a pertinent strategy to induce some training stimuli to maintain physical fitness.
+
+- The micro training cycle method consists of very short training session.
+
+:::
+
+
+## Micro training cycles {.smaller background-color="#107895"}
+
+### A good idea to implement for soldiers?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+Kilen et al 2015
+
+
+- Participants 29
+
+- Performed 8 week training in a military environment
+
+
+::: {.fragment}
+
+- Gr 1: 9 x 15 min sessions per week (Micro)
+
+- Gr 2: 3 x 45 min session per week (Classic)
+
+- Weekly training volume was the same
+
+:::
+
+:::
+
+
+::: {.column width="50%"}
+
+::: {.fragment}
+
+Exercises:
+
+- Heavy resistance training (5-8 RM - 2-3 sets)
+- High-intensity endurance training (2-4 min intervals x 6 to 9 )
+- Muscle endurance training (30 sec per series in 5 exercises)
+
+:::
+
+:::
+
+
+::::
+
+
+::: {.notes}
+
+Kilen et al investigated this method in a military environment
+
+1. Wherein short, frequent sessions, of endurance and strength training, was compared to longer less frequent sessions
+
+2. then read on slide "clic to exercise"
+
+:::
+
+## Micro training cycles {.smaller background-color="#107895"}
+
+### A good idea to implement for soldiers?
+
+
+Similar adaptations between groups after 8 weeks:
+
+::: {.fragment}
+- Aerobic performance 
+    
+:::
+
+::: {.fragment}
+- Strength performance
+:::
+
+
+::: {.notes}
+
+- After eight weeks the author observed similar increases between training groups
+
+- "click", in aerobic performance
+
+- "click", and strength performance
+
+:::
+
+## Micro training cycles {.smaller background-color="#107895"}
+
+### A good idea to implement for soldiers?
+
+
+![](fig/new/flex_2.png)
+
+- My be a good alternative during time restricted periods during deployment
+
+- Some training time is better than nothing
+
+
+
+::: {.notes}
+
+
+- So this can be a valuable strategy, with short frequent sessions, which can be implemented in short breaks during the day or between operations for example
+
+- taken together, the soldier would likely have some benefit of this training strategy as some training is likely better than nothing
+
+:::
+
+
+## Flexible periodization model during deployment {.smaller background-color="#107895"}
+
+### Recovery aspect following operations
+
+
+![](fig/stress_3.png)
+
+- NOTABLY  
+- Post demanding operations:  
+      - Recovery days (optimal 1-2 weeks)
+
+::: {.notes}
+
+- However in regard to these training windows between operations, we know from these field exercise studies, that the body needs several days to recover, 
+
+- often it takes, 1-2 weeks before the body is fully recovered and returned to pre operation body mass and muscular performance levels
+
+- So, I would recommend there is some time restrictions that need to be followed to reduce risk of injury or delay the recovery process unnecessary...
+
+- and perhaps, more IMPORTANLTY, delay soldiers active duty readiness
+
+:::
+
+
+## Summary of flexible periodisation {.smaller background-color="#107895"}
+
+- Advantage:
+      
+    - The commandor knows that the soldier is doing training to maintain physical fitness over a certain time period 
+    - Easier to control recovery and mitigate overtraining
+      
+::: {.fragment}      
+
+- Disadvatage:
+    
+    - The commandor does not know wheter the training is done
+    - There is a risk that the soldier frequently choose the easy session (unmotivated)
+:::
+
+
+::: {.fragment} 
+- Suggestion to increase training motivation:
+    
+    - maybe include frequent testing of physical fitness during deployment?
+    - to motivate progression in training
+
+:::
+
+:::  {.notes}
+
+
+- So an advantage of using flexible training model is that "The commandor knows that the soldier is doing training to maintain physical fitness over a certain time period"
+
+-  AND, Easier to control recovery and mitigate overtraining
+
+
+- "click", The commandor does not know whether the training is done
+
+- There is a risk that the soldier frequently choose the easy session, due to low motivation
+
+so to increase motivation: 
+    - maybe include frequent testing of physical fitness during deployment?  
+    - then the soldier can have some extra motivation to continue training progression
+
+
+:::
+
+
+## What we do pre-doplyment is also of importance {.smaller background-color="#107895"}
+
+### A high baseline in physical fitness
+
+![](fig/benefit/reserve.png)
+
+::: {.notes}
+
+1. A last strategy, which could prepare the soldier for the physical demand and maybe better preserve military readiness during deployment, can be to ensure that the soldiers have as HIGH physical fitness level as possible, BEFORE entering the deployment period.
+
+2. Thus the soldier may have a higher physical capacity than the demand when entering de deployment period (POINT)
+
+:::
+
+
+## A high baseline to minimize the drop? {.smaller background-color="#107895"}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](fig/baseline_drop.png){.absolute top=100 left=0 height="300"}
+
+
+
+
+:::
+
+
+
+
+::: {.column width="50%"}
+
+
+
+::: {.absolute top=150}
+
+
+![](fig/benefit/reserve.png){}
+
+- The drop can tell us something about the baseline
+
+- Baseline physical fitness need to be high
+    - Delay drop in physical fitness during operations?
+    - To better preserve readiness during deployment
+
+
+[@RN1097;@RN1621;@RN185]
+
+
+:::
+
+
+:::
+
+
+
+::::
+
+
+::: {.notes}
+
+ 
+1. an initial higher baseline, have more relatively strength or endurance capacities to loose, and the soldier may thus maintain physical 
+demand longer by having a "reserve physical capacity" when entering the deployment period (POINT)
+
+2. as illustrated here in soldier 1 and 2..., wherein soldier 1 better preserve physical fitness and readiness at a given time.
+
+3. So, Sufficient training ahead of deployment is of importance, and can not be overlooked in this regard..
+
+4. and thus is a strategy to mitigate loss of military readiness  
+
+enough  
+
+2. the importance of high physical fitness at baseline, can be supported by what is seen during intake of recruits to the Norwegian Special Forces.  
+Those individuals who have a higher physical fitness level at baseline, did also display a greater possibility to successfully complete extreme demanding training periods
+
+
+:::
+
+
+
+## Summary of strategies {.smaller background-color="#107895"}
+
+**- During low intensity conflict periods**
+
+::: {.fragment}
+
+  - Including frequent training sessions seems to maintain physical fitness and perceived health during deployment
+
+:::
+  
+::: {.fragment}    
+
+  - Including task specific training - could maintain soldiers physical fitness
+    
+::: 
+    
+::: {.fragment}    
+    
+  - Maintain physical fitness with one weekly session could be possible in periods (minimal dose needed)
+    
+:::    
+    
+  
+::: {.fragment}
+
+**- During high intensity conflict periods**
+
+:::
+
+::: {.fragment}
+
+  - More strategies is needed to sustain physical fitness
+
+:::
+
+::: {.fragment}
+
+   - Flexible periodization can be an alternative to better sustain training continuity
+    
+:::    
+    
+::: {.fragment}  
+
+  - Short micro sessions of high intensity - low volume can be an effective and time efficient strategy
+
+:::
+
+
+::: {.fragment}  
+
+  - High as possible physical fitness level pre-deployment can maintain soldiers physical resilience
+
+:::
+
+
+
+
+::: {.notes}
+
+ - More strategies is needed to sustain physical fitness, due to reduced possibility to train systematic in periods
+ 
+ then read on slide..
+
+read on slide
+
+:::
+
+
+## Practical application {.smaller background-color="#107895"}
+
+**Training strategies:**
+
+::: {.fragment}
+
+- Create mesocyles with specific training goals for the individual soldier
+
+:::
+
+::: {.fragment}
+
+- Make 3-4 alternative session (easy to hard) which can be chosen by the soldier depending on his/her physiological readiness
+
+:::
+
+::: {.fragment}
+
+- Short micro session is probably better than no training session
+
+:::
+
+::: {.fragment}
+
+Notably:
+
+- A short recovery period following demanding operations is necessary, to minimize delayed recovery and military readiness
+
+:::
+
+
+::: {.fragment}
+
+- Initial fitness level must be optimized as good as possible before entering a deployment period
+
+:::
+
+
+
+
+::: {.notes}
+
+- so to end in this presentation I come up with a few summary practical applications
+
+
+- read on slide "click"
+
+- Soldier physical fitness and readiness is challenged by the multi-stressor environment
+
+- The conflict continuum demands a need for flexible training strategies
+
+:::
+
+
+
+## Thank you {.smaller background-color="#107895"}
+
+
+
+## da mener vi vel for å vedlikeholde physical fitness (strength, endurance, vektlegg mer denne session?){.smaller background-color="#107895" visibility="hidden"}
+
+- dra inn igjen operation figure
+
+
+
+-   definerer vi det som å vedlikeholde/bedre physical fitness (strength, endurance)
+
+-   forutsetning for å gjøre fysisk trening, at kroppen/indre miljø er i balance, anabolske forutsetinger for adaptasjoner...?
+
+-   derfor bør fokus være i mer rolige perioder, hvor man er i balanse?
+
+-   concurrent training (long term?)
+
+-   peridoization strategies (non linear, flexible periodization, volume lavt-høy intensitet?)
+
+-   nutrient strategeies (i følge pihlainen så er det manglende studier på dette i deployments (avgrense tror jeg og ikke bry seg om dette nå))
+
+-   philainen 2022, Myllyla2023 har sett på trenining i lengrevarende operasjoner/deployments
+
+    -   de vedlikholder styrke, men motivasjon kan være avgjørende (indre motivasjon til soldat, pluss lederen)
+    - mer testing under deplyoyments, ytre motivasjon...
+
+
+
+::: {.notes}
+
+-   As such, the demanded level of physical performance (e.g., functional reserve) may not be maintained during operations lasting several months just by performing the given military duties. Future *studies focusing on training interventions*, aiming to maintain or improve physical performance during military operations, are warranted (for.eks .
+
+-   collaborations of allies often obligates soldiers to deploy internationally which requires these soldiers to content with multiple stressors (e.g. physical, psychological, environmental, nutritional etc.).
+
+:::
+
+
+
+## 3. Physiological demands during deployments (stressors?) {.smaller background-color="#107895" visibility="hidden"}
+
+### What are the soldiers challenges during deplyments
+
+-   Increases in physiological demands during operations
+
+    -   time with external load (average 22kg nagai etal)
+    -   physically demanding tasks (from 12 to 22% boye etal)
+    -   
+
+-   environmental extremes (heat, cold, altitude)
+
+-   musculoskeletal injuries
+
+-   post-traumatic stress disorders
+
+-   Mental
+
+-   Environment extremes
+
+::: notes
+-   demands increases during with increased soldiers
+
+-   Maintenance of physical fitness and body composition
+
+-   rigors of external load carriage
+
+    -   one of major challenges throughout history has been the requirement to carry an external load into combat. There have been an linear increase in soldiers loads over time.
+    -   The negative consequences of excessive load carriage can include decreased mobility, increased fatigue, foot blisters, spinal injury and degeneration, muscle tightness, and soreness of the legs, feet, back, and shoulders..
+
+-   environmental extremes (heat, cold, and altitude)
+
+-   musculoskeletal injuries (large part, 82.3% of evacuations were non battle injury or illness, 17.7% was battle injury) Nindl 2013.
+
+-   traumatic brain injuries
+
+-   post-traumatic stress disorder
+
+A full understanding of these responses, will assist in identifying the most effective risk mitigation strategies to ensure deployment readiness
+:::
+
+
+
+## Muscle memory {.smaller background-color="#107895" visibility="hidden"}
+
+- trent i forkant (styrke / aerob)
+
+- hente seg inn igjen fortere etterpå
+
+::: {.notes}
+
+
+:::
+
+
+## nutrient {.smaller background-color="#107895" visibility="hidden"}
+
+- ekstra 1000 kcal på lomma ga effekt på å bevare muskelmasse (Sepc ops)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## References {.smaller background-color="#107895"}
