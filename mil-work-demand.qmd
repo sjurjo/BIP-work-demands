@@ -433,6 +433,8 @@ end
 
 :::
 
+
+
 # The versatility of pentathlon in a military context {background-color="#107895"}
 
 
@@ -549,12 +551,6 @@ Figure from [@RN1615;@RN1633]
 :::
 
 
-
-## Military working demands {background-color="#107895"}
-
-- What is your working demand in your filed of expertise?
-
-    - Spend two minutes to discuss - reflect upon this question
 
 
 ## Outline of talk {.smaller background-color="#107895"}
@@ -2239,7 +2235,7 @@ Those individuals who have a higher physical fitness level at baseline, did also
 
 :::
 
-
+# The benefit of high physical fitness over time and especial during deployment {background-color="#107895"}
 
 
 ## Benefits of physical fitness during deployment {.smaller background-color="#107895"}
