@@ -32,28 +32,39 @@ source("./R/themes.R")
 
 ## Military work demands and Military Pentathlon - The Link {.smaller background-color="#107895"}
 
-### Outline of talk
 
-- Brief history of MP
+**1. part - Military Pentathlon**  
 
-- The link to military working demand
+- Brief background of Military Pentathlon  
 
-- Military pentathlon in the greater picture
+- The link to military working demand  
 
-- Determinants of military readiness
-
-- Training strategies during deployment / operations to preserve physical fitness and military readiness
-
-- Benefit of physical fitness for the soldier in the short and long-term perspective
+- Military pentathlon in a military context  
 
 
+**2. part - Challenges and Physical fitness**  
+
+- What is military operations?  
+
+- The demand of the military soldier  
+
+- Determinants for military readiness  
+
+- Training principles and training strategies (during deployment)<br>to preserve physical fitness and military readiness  
+
+**3. part - Benefit**  
+
+- Benefit of maintaining physical fitness  
+
+- Practical application  
 
 
-- Working demand of a modern soldier
 
 ::: {.notes}
 
+2 part; Then from her and beyond military pentathlon, physical capacitites are put into a broader military context. With the purpose of emphazising the importance of physical fitness to improve and sustain military readiness
 
+3. part benefit
 
 
 :::
@@ -95,14 +106,11 @@ source("./R/themes.R")
 
 ::: {.notes}
 
-- Starts on the 1900th century with the modern pentathlon developed as a consequence of the Olympians and war time during WWI.
-
-- Developed in 1946 with the exercises we know to day.
+Startet on the beginning of the 1900th century..
 
 - *French captain Henri Debrus*, promoted the idea of organizing a sports competition exclusively for the army. With inspiration from the Dutch Air Force, which had used specific military activities such as parachuting, marching, obstacle course, firing weapons and hand grenade to improve motor skills of these activities.
 
-- Captain Debrus modified this training to the exercises we now to day.
-
+- Captain Debrus modified this training to the exercises we now to day, this was after 1946..
 
 The characteristics of the military pentathlon are closely related to the role of the military and the essential tasks undertaken by the armed forces, being a combination of the ability to concentrate, physical endurance and psychological challenges. 
 
@@ -122,8 +130,6 @@ The characteristics of the military pentathlon are closely related to the role o
 :::
 
 :::: {.columns}
-
-
 
 ::: {.column width="50%"}
 
@@ -147,14 +153,14 @@ The characteristics of the military pentathlon are closely related to the role o
 ::: {.fragment .fade-in-then-out fragment-index=4}
 
 - **Throwing:** improves motor control and coordination of movement.  
-This does not only apply throwing grenades, but other materials can be used, such as smoke bombs, first aid kits, ropes ect, that must be handled in a safe and dry area.
+  - This does not only apply throwing grenades, but other materials can be used, such as smoke bombs, first aid kits, ropes ect.
 
 :::
 
 ::: {.fragment .fade-in-then-out fragment-index=5}
 
 - **Running** in various terrains: this is in particular useful for the military, as it forms a series of skills specific to running on different terrains. 
-  - It improves the aerobic capacity and cardiovascular system, and they will also train on terrains similar to the environment in which they can meet on the battlefield.
+  - It improves the aerobic capacity and cardiovascular system, and the soldier will also train on terrains similar to the environment in which they can meet on the battlefield.
 
 :::
 
@@ -180,9 +186,9 @@ This does not only apply throwing grenades, but other materials can be used, suc
 ![](images/exercise/MP_swim.jpg){.fragment  .fade-in-then-out fragment-index=3}
 ![](images/exercise/throw.jpg){.fragment .fade-in-then-out fragment-index=4 .absolute top=250 right=-10 height="250" }
 
-![](images/exercise/run.jpg){.fragment .fade-in-then-out fragment-index=5 .absolute top=250 right=0}
+![](images/exercise/run-trond.jpg){.fragment .fade-in-then-out fragment-index=5 .absolute top=250 right=0 height="250"}
 
-![](images/exercise/throw.jpg){.fragment .fade-in-then-out fragment-index=6 .absolute top=250 right=-10 height="250" }
+![](images/exercise/shoot.jpg){.fragment .fade-in-then-out fragment-index=6 .absolute top=250 right=-10 height="250" }
 
 :::
 :::
@@ -196,20 +202,19 @@ This does not only apply throwing grenades, but other materials can be used, suc
 
 - Obstacle course
 
-- Each of the obstacles can be related to a specific combat skill required in the operational theater - link to the correlation plot with strength and endurance.. 
+- Each of the obstacles can be related to a specific combat skill required in the operational theater - link to the correlation plot with strength and endurance..  
 
 - concentration: 
 
-  - the ability to concentrate in stressful situations is necessary during the firing of the individual equipment (especial during the 1 min round of 10 shoots)
+1.  - a concentration to tolerate some fatigue while performing technical maneuvers during obstacle course/swimming
+  
+3.   - the ability to concentrate on motor control specific to the biomechanics of the precicion throwing with hand grenades
 
-  - the ability to concentrate on motor control specific to the biomechanics of the precicion throwing with hand grenades
-  
-  - the ability to tolerate some fatigue while performing technical maneuvers during obstacle course/swimming
-  
-  - high aerobic capacity for obstacle course and terrain run performance
+4.  - the ability to concentrate in stressful situations is necessary during the firing of the individual equipment (especial during the 1 min round of 10 shoots)  
   
   
-  - The multi-athletic person which handle all the characteristics and physical demands will achieve the highest performance in all five trials{bg}
+
+- The multi-athletic person which handle all the characteristics and physical demands will achieve the highest performance in all five trials{bg}  
 
 
 
@@ -234,11 +239,11 @@ Strength capacity
 #| fig-height: 4.0 
 #| fig-width: 6.0
 
+
 str <- readRDS(file="./derived/corr_STR.RDS") +
 
     annotate("rect", xmin = 0.4, xmax = 0.8, ymin = 0.5, ymax =6,  alpha = .1) +
     annotate("rect", xmin = -0.4, xmax = -0.8, ymin = 0.5, ymax =6,  alpha = .1) +
-  
   
 theme(axis.ticks.x = element_blank())
 
@@ -258,6 +263,28 @@ str
 
 
 ::: {.notes}
+
+
+- So each of these exercises in military pentathlon can be related to a specific combat occupationl task required in the operational theater, 
+
+and these skills are associated to your strength and endurance capacities..
+
+    - markmansships, runing, jump skills, crawl, move fast, total laoding..
+    
+- So meaning, are you stronger you would also likely perform better in these military performance tasks...
+
+- A strong argument for sustaining strength and endurance capacity during your academic life, or when deployed and will ensure military readiness
+
+
+What this really comes down to is that the military pentathlon isn’t just about sport — it’s about meeting real operational demands. These exercises are designed to sharpen your military readiness. And that readiness, at its core, depends on your physical fitness — on the strength and endurance you bring to the table.
+
+So. let us put military pentathlon into the military context and elaborate how it is related to your military readiness....
+
+---
+
+
+- Military pentathlon exercises; markmanships, runing, jump skills, crawl, move fast... associated to pentathlon and capacitites
+
 
 - This is because, soldiers' strength and endurance capacity are found to be associated with several occupational and combat like tasks.
 
@@ -438,6 +465,125 @@ end
 # The versatility of pentathlon in a military context {background-color="#107895"}
 
 
+
+:::{.notes}
+
+Versatility - allsidighet
+
+:::
+
+
+## Outline of talk {.smaller background-color="#107895"}
+
+**1. part - Military Pentathlon**  
+
+- Brief background of Military Pentathlon  
+
+- The link to military working demand  
+
+- Military pentathlon in a military context  
+
+
+**2. part**  
+
+- **What is military operations?**  
+
+- The demand of the military soldier  
+
+- Determinants for military readiness  
+
+- Training principles and training strategies (during deployment)<br>to preserve physical fitness and military readiness  
+
+**3. part - Benefit**  
+
+- Benefit of maintaining physical fitness  
+
+- Practical application  
+
+
+
+::: {.notes}
+
+
+- To set the military pentathlon in a military context and its relation to your military readiness, we must first define military operations, as this is what we continuously train to accomondate us fo
+
+
+:::
+
+
+
+## Military operations {.smaller background-color="#107895"}
+
+### Range of military operations (ROMO)
+
+![](fig/operation.png)
+
+-   The conflict continuum forms the operation (inspired by doctrine.af.mil)
+
+::: notes
+
+
+
+
+- So, a military operation is not a fixed situation. IT continuously varies in degrees of intensity and complexity on a day or weekly basis. 
+
+- On the one side we have, Stable Peace, with LOW intensity and complexity of the conflict,
+
+- Moving along this line to the right, the intensity/complexity of the conflict increases towards maximum, which is war time..
+
+:::
+
+
+## Military operations {.smaller background-color="#107895"}
+
+### What characterizes operations
+
+![](fig/new/new_level_2.png){.absolute width="650" left=-5}
+
+
+
+::: {.fragment .absolute top=390}
+
+1\. Military engagement
+
+ - routine military activities (day-to day conflict tension low)
+ 
+:::
+
+::: {.fragment .absolute top=480}
+
+2\. Crisis response
+
+ - peace enforcement (i.e. noncombat evacuation, peace operations)
+
+:::
+
+::: {.fragment .absolute top=570}
+
+3\. Major operations
+
+ - often large-scale or long duration operations (often associated with wartime conditions)
+
+:::
+
+::: notes
+
+
+- Along this continuum we ha different levels of operations...
+
+1.  "click", in the first level: the military is engaged to control tension between groups, predominately without force, and often involve being deployed in foreign country. BUT, the Day to day conflict tension is low.
+
+2. "click", moving to the right, the conflict level increases and the soldiers readiness level is elevated, it typically involves small-scale operations, of limited duration, such as nonbombat evacuations..
+
+3.  "click" far right, there is sustained operations in conflict with other nations or groups, it is often a *series* of operations aimed to restore security, and strategic positions within a given time, this is often associated with full wartime..
+
+:::
+
+
+
+
+
+
 ## Military operations {.smaller background-color="#107895"}
 
 ### Military readiness
@@ -450,7 +596,7 @@ end
 ![](fig/new/red1.png){.fragment fragment-index=1 .fade-in-then-out}
 
 
-![](fig/new/new_read.png){.fragment height="350" fragment-index=2}
+![](fig/new/re2.png){.fragment height="350" fragment-index=2}
 
 :::
 
@@ -458,6 +604,9 @@ end
 -   Military readiness is dependent of soldiers' physical fitness
 
 ::: notes
+
+
+
 
 - "click", Along with the increasing tension in a conflict, the soldier must constantly cope with an increased degree of intensity and complexity of the operation.
 
@@ -467,7 +616,45 @@ end
 
 - So this demand line of fitness need to be high to ensure soldiers military readiness, as the conflict may move from left to right very fast..
 
+- AND THIS demand line is what you are training on during this week. MUliple demands which is related to the militay occupational tasks that, some are more or less linked to the military pentahtlon exercises that you specifically are training on this week
+
+
 :::
+
+
+## Outline of talk {.smaller background-color="#107895"}
+
+**1. part - Military Pentathlon**  
+
+- Brief background of Military Pentathlon  
+
+- The link to military working demand  
+
+- Military pentathlon in a military context  
+
+
+**2. part - Challenges and Physical fitness**  
+
+- What is military operations?  
+
+- **The demand of the military soldier**  
+
+- Determinants for military readiness  
+
+- Training principles and training strategies (during deployment)<br>to preserve physical fitness and military readiness  
+
+**3. part - Benefit**  
+
+- Benefit of maintaining physical fitness  
+
+- Practical application  
+
+::: {.notes}
+
+-THEN let us look into some general demands that the modern soldier needs to cope with....
+
+::: 
+
 
 
 ## Military operations {.smaller background-color="#107895"}
@@ -523,6 +710,8 @@ Figure from [@RN1615;@RN1633]
 
 - Consequently the anaerobic requirements is elevated, adding another demand on the soldier physical fitness capacity
 
+- Which is also an important capacity in the obstacle course performance, with high intensity for a short time of period..
+
 :::
 
 
@@ -548,6 +737,8 @@ Figure from [@RN1615;@RN1633]
 
 - hence, adding an extra physiological stress on the soldier
 
+- so an increased daily total loading, as you will experience by conducting all the military pentathlon exercises, is something you need to cope with to perform well in the pentathlon - and when put into a military context important to sustain your military readiness
+
 :::
 
 
@@ -555,46 +746,45 @@ Figure from [@RN1615;@RN1633]
 
 ## Outline of talk {.smaller background-color="#107895"}
 
-- What is military operations?
+**1. part - Military Pentathlon**  
 
-- The demand of the military soldier
+- Brief background of Military Pentathlon  
 
-- **Determinants for military readiness**
+- The link to military working demand  
 
-- Benefit of maintaining physical fitness
-
-- Training strategies during deployment to preserve physical fitness and military readiness
-
-- Practical application
+- Military pentathlon in a military context  
 
 
+**2. part - Challenges and Physical fitness**  
 
-![](fig/new/demand_heavy.png){.absolute height="250" bottom=30 right=0}
+- What is military operations?  
+
+- The demand of the military soldier  
+
+- **Determinants for military readiness**  
+
+- Training principles and training strategies
+
+**3. part - Benefit**  
+
+- Benefit of maintaining physical fitness  
+
+- Practical application  
+
+
+
+![](fig/new/demand_heavy.png){.absolute height="250" bottom=30 right=-50}
 
 
 
 ::: {.notes}
 
-- All these demands which has increased gradually with the modern battlefield thus highlight the need for high physical fitness during deployment, and will thus also affect soldiers military readiness..
+- All these demands which has increased gradually with the modern battlefield thus highlight the need for high physical fitness during military operations, and will thus also affect soldiers military readiness..
 
 
-So, know we need FURTHER define the determinants for military readiness..
+But there is more determinating factors for your military readiness, which we will look into know
 
 :::
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -628,6 +818,9 @@ So, know we need FURTHER define the determinants for military readiness..
 - This factors alone or in combination will induce a physiological stress on the soldier, which affects soldiers military readiness
 
 
+- Have you experienced these factors in your time of servise? How did it affect you?
+
+
 :::
 
 
@@ -644,7 +837,9 @@ So, know we need FURTHER define the determinants for military readiness..
 
 ::: {.notes}
 
-- Additionally, to these multi-stress factors, we have the impact of the environment the soldier operate in. Wherein cold climate can for.exemple compromise soldiers fine motor skill, resulting in reduced capability of shooting, hence reducing soldiers military readiness.. 
+- Additionally, to these multi-stress factors, we have the impact of the environment the soldier operate in. Wherein cold climate can for.exemple compromise soldiers fine motor skill, resulting in reduced capability of shooting, hence reducing soldiers military readiness..
+
+- Warm climate can reduce performance with 5-7%
 :::
 
 ## Consequences of being in a multi-stress environment {.smaller background-color="#107895"}
@@ -721,6 +916,9 @@ So, know we need FURTHER define the determinants for military readiness..
 
 - and it can even jeopardize mission and lives
 
+
+IS these factors familiar to you?
+
 :::
 
 
@@ -730,57 +928,50 @@ So, know we need FURTHER define the determinants for military readiness..
 
 ## Outline of talk {.smaller background-color="#107895"}
 
-- What is military operations?
 
-- The demand of the military soldier
+**1. part - Military Pentathlon**  
 
-- Determinants for military readiness
+- Brief background of Military Pentathlon  
 
-- **Benefit of maintaining physical fitness**
+- The link to military working demand  
 
-- Training strategies during deployment to preserve physical fitness and military readiness
+- Military pentathlon in a military context  
 
-- Practical application
 
-![](fig/new/new_mini_2.png){.absolute  height="250" bottom=0 right=0}
+**2. part - Challenges and Physical fitness**  
+
+- What is military operations?  
+
+- The demand of the military soldier  
+
+- Determinants for military readiness  
+
+- **Training principles and training strategies (during deployment)<br>to preserve physical fitness and military readiness**  
+
+
+**3. part - Benefit**  
+
+- Benefit of maintaining physical fitness  
+
+- Practical application  
+
+
+
+
+![](fig/new/ex_envir1.png){.absolute height="350" top=80 right=0}
 
 
 ::: {.notes}
 
-- So being able to maintain its physical fitness level IS OF IMPORTANCE, as these stress-factors will induced negative physiological changes in periods during deployment, especial towards the RIGTH side of the continuum, and thus compromise soldiers physical performance and readiness
+- So being able to maintain its physical fitness level IS OF IMPORTANCE, as these stress-factors will induced negative physiological changes in periods during deployment and other operations, especial towards the RIGTH side of the continuum, and thus compromise soldiers physical performance and readiness
 
 PAUSE
 
+Ok, so let us look into possible training strategies to use, and what have been done before in some studies to improve and maintain physical fitness...
 
-- But, let us look into the short and long term benefits of maintaining this high physical fitness level during prolonged operations...
-
-:::
-
-
-
-
-
-
-
-## Military operations {.smaller background-color="#107895"}
-
-### Determinants for military readiness
-
-![](fig/new/body_dem_2.png){.fragment fragment-index=1 .absolute height="450" left=0}
-
-::: {.notes}
-
-So, the demand of having a high physical fitness is closely connected with soldiers military readiness 
-
-- And, know let us look into how the demand of soldiers physical fitness has evolved on the modern battlefield
-
-
-
-- "click", As we see the military readiness is dependent on a high physical fitness level irrespective of degree of conflict. This fitness status is built on the soldiers Strength and Endurance capacities (point).
+AND training strategies that have been implemented under these circumstances both under the LOW and HIGH conflict areas...
 
 :::
-
-
 
 
 ## Strategies for maintaining physical fitness {.smaller background-color="#107895"}
@@ -827,13 +1018,11 @@ So, the demand of having a high physical fitness is closely connected with soldi
 
 - For both strength and endurance capacities [@RN818]
 
-
-
 :::
 
 ::: {.notes}
 
-- In particular have the periodization model, block periodization, been recommended for soldiers to use both before and during deployment periods
+- In particular have the periodization model, block periodization, been recommended for soldiers to use both before and during deployment periods BUT also in your academic daily life this has a value, as your training may be interrupted by field exercises or other mandatory lectures interrupting your training schedule...
 
 - With block periodization the soldier can in different periods work with different focus, with the aim to maximize a physiological capacity, while maintaining other capacities simultaneously
 
@@ -842,48 +1031,26 @@ So, the demand of having a high physical fitness is closely connected with soldi
 - and has shown to improve both strength and endurance capacitites simultainously, which is of importance since soldiers need to maintain both capacities to ensure military readiness
 
 
-
 :::
 
 
-
-## Training strategies {.smaller background-color="#107895"}
-
-### Possible to train systematic over time?
-
-![](fig/benefit/continuum.png){}
-
-
-
-::: {.notes}
-
-- But we know that the soldiers is in a challenging position, as the degree of the conflict continuum would vary with the present of single of multiple-stress factors that consequently would put the soldier in a more maladaptive state..
-
-
-- BUT, what happens to physical fitness levels and body composition during prolonged operations where soldier is deployed...
-
-- To get an idea to this, let us look at some of these deployment studies
-
-
-:::
-
-
-
-
-## Physical training during deployment {.smaller background-color="#107895"}
+## Physical training during deployment - operations {.smaller background-color="#107895"}
 
 ### Can more optimal training conditions be achieved during deployment?
 
 
 ::: {.r-stack}
 
-![](fig/new/strategies_low.png){.fragment fragment-index=1 .fade-in-then-out .absolute height="450" left=0}
+![](fig/benefit/continuum.png){.fragment fragment-index=1 .fade-in-then-out .absolute height="350" left=0}
 
 
-![](fig/new/strategies_low_stress.png){.fragment fragment-index=2 .absolute height="450" left=0}
+![](fig/new/strategies_low.png){.fragment fragment-index=2 .fade-in-then-out .absolute height="350" left=0}
+
+
+![](fig/new/strategies_low_stress.png){.fragment fragment-index=3 .absolute height="350" left=0}
 :::
 
-::: {.fragment fragment-index=2 .absolute bottom=0}
+::: {.fragment fragment-index=3 .absolute bottom=0}
 
 - Lowest conflict level
 
@@ -893,9 +1060,14 @@ So, the demand of having a high physical fitness is closely connected with soldi
 
 ::: {.notes}
 
+- "click" But we know that the soldiers is in a challenging position, as the degree of the conflict continuum would vary with the present of single of multiple-stress factors that consequently would put the soldier in a more maladaptive state..
+
+
 - "click", AND, it is most likely in the left end of the conflict continuum, towards the stable peace conditions...
 
 - "click", wherein the impact of each of these stress factors are lowest in intensity..
+
+- this is where you are now, predominately, during your academy military education, but you will at occasions be tested of the impact of these stress factors during your education, Ill come back to that later
 
 :::
 
@@ -1334,7 +1506,7 @@ Why this training focus:
 
 ::: {.notes}
 
-- Another training strategy which can be implemented during deployment, is the task specific training, aligning with the idea of "train as you will fight."
+- Another training strategy which can be implemented during deployment/ or when you are not in your usual training environment, is the task specific training, aligning with the idea of "train as you will fight."
 
 1. Throughout time load carriage has shown to be an essential occupational task for soldiers during military operations. 
 
@@ -1465,7 +1637,7 @@ Task specificity test:
 
 - They also observed. that the task specific training group, displayed greater improvements in most part of the course compared to the strength group, THUS highlighting the specificity of the task specific training program.
 
-- "click",They, also maintained physical fitness and task course performance, despite of high amount of field training and decreased number of training session the last 6 weeks. 
+- "click",They, also maintained physical fitness and task course performance, despite of HIGH amount of field training and decreased number of training session the last 6 weeks. 
 
 "click" - This study illustrates, when only few training options are available, task specific training are a good alternative to regular resistance training to promote and maintain physical fitness level for the deployed soldier...
 
@@ -1642,7 +1814,7 @@ readRDS(file="./derived/fexe.RDS") +
 
 - To get an understanding of what exactly happens with soldiers physical fitness during high-intensity operations, we can look into these military field studies. To get an idea what happens with body composition and physical performance in repose to these exercises,
 
-- As we remember; these field exercises are exposing the soldier in combination of the stressors during non-deployment periods (POINT), to prepare and train the soldier for similar situation on the real-life battlefield..
+- As we remember/know; these field exercises are exposing the soldier in combination of the stressors during non-deployment periods (POINT), to prepare and train the soldier for similar situation on the real-life battlefield.. I guess you all have participated in such field exercises and experienced what happens with your body, performance and hence readiness..??
 
 - "click", SO, I plotted data from field studies to get an impression on what happens in body composition and performance outcomes..
 
@@ -2235,6 +2407,45 @@ Those individuals who have a higher physical fitness level at baseline, did also
 
 :::
 
+## Outline of talk {.smaller background-color="#107895"}
+
+
+**1. part - Military Pentathlon**  
+
+- Brief background of Military Pentathlon  
+
+- The link to military working demand  
+
+- Military pentathlon in a military context  
+
+
+**2. part - Challenges and Physical fitness**  
+
+- What is military operations?  
+
+- The demand of the military soldier  
+
+- Determinants for military readiness  
+
+- Training principles and training strategies (during deployment)<br>to preserve physical fitness and military readiness 
+
+
+**3. part - Benefit**  
+
+- **Benefit of maintaining physical fitness**  
+
+- Practical application  
+
+
+::: {.notes}
+
+- Then finally, we must highlight the benefit of maintainig high physical fitness as a soldier
+
+:::
+
+
+
+
 # The benefit of high physical fitness over time and especial during deployment {background-color="#107895"}
 
 
@@ -2246,7 +2457,9 @@ Those individuals who have a higher physical fitness level at baseline, did also
 
 ::: {.notes}
 
-- the short and long term benefit of maintained physical fitness need to be seen in conjunction with each other. As the long term benefit will dependent on how the short term benefits are achieved and sustained...
+- We can look into short and long term benefit,
+
+- HOWEVER, the short and long term benefit of maintained physical fitness need to be seen in conjunction with each other. As the long term benefit will dependent on how the short term benefits are achieved and sustained...
 
 - This is because the short term benefit will rely on how the deployment period evolve, in terms of frequency of operations where the soldier experience being in this muliti-stressor environment
 
@@ -2524,6 +2737,27 @@ Notably:
 :::
 
 
+::: {.fragment}
+
+**Military pentathlon in the military context:**
+
+- Military pentathlon exercises is part of your working demand
+
+:::
+
+:::{.fragment}
+
+- These skills are dependent of your physical fitness 
+
+:::
+
+::: {.fragment}
+
+- Important for sustaining military readiness over time (deployment - operations)
+
+:::
+
+
 
 
 ::: {.notes}
@@ -2541,19 +2775,21 @@ Notably:
 
 
 
-## Thank you for attention {.smaller background-color="#107895"}
+## Thank you for the attention {.smaller background-color="#107895"}
 
-::: {.absolute bottom=-40 style="font-size: 120%;"}
+::: {.fragment .absolute bottom=-40 style="font-size: 120%;"}
 
-[Hopefully, the lecture has emphasized the importance of military pentathlon exercises as an important part of your military training requirements]{.bg style="--col: purple"}
+[I hope this lecture has broadened your perspective on how military pentathlon exercises strengthen your military readiness and may serve as a tool to sharpen your training]{.bg style="--col: purple"}
 
 :::
 
-
 ![](images/exercise/comb.png)
 
+::: {.absolute top=-50 right=-60}
 
+{{< video https://www.youtube.com/watch?v=TQ3P-XvOnFs&list=RDTQ3P-XvOnFs&start_radio=1 start="5"  width="350" height="250">}}
 
+:::
 
 
 ::: {.notes}
@@ -2568,19 +2804,11 @@ Notably:
 
 
 
-## Slides beyond, spare slides?
+## Slides beyond, spare slides? {visibility="hidden"}
 
 
 
-## Military operations and demands fall within military pentathlon
-
-What you train on in pentathlons is of importance for the battlefield
-
-
-
-
-
-## Outline of talk {.smaller background-color="#107895"}
+## Outline of talk {.smaller background-color="#107895" visibility="hidden"}
 
 - What is a military operation?
 
@@ -2633,7 +2861,7 @@ Narrowing the scope:
 
 :::
 
-## Outline of talk {.smaller background-color="#107895"}
+## Outline of talk {.smaller background-color="#107895" visibility="hidden"}
 
 - **What is a military operation?**
 
@@ -2661,7 +2889,7 @@ Narrowing the scope:
 
 :::
 
-## Military operations {.smaller background-color="#107895"}
+## Military operations {.smaller background-color="#107895" visibility="hidden"}
 
 ### Range of military operations (ROMO)
 
@@ -2680,49 +2908,6 @@ Narrowing the scope:
 
 :::
 
-## Military operations {.smaller background-color="#107895"}
-
-### What characterizes these operations
-
-![](fig/new/new_level_2.png){.absolute width="650" left=-5}
-
-
-
-::: {.fragment .absolute top=390}
-
-1\. Military engagement
-
- - routine military activities (day-to day conflict tension low)
- 
-:::
-
-::: {.fragment .absolute top=480}
-
-2\. Crisis response
-
- - peace enforcement (i.e. noncombat evacuation, peace operations)
-
-:::
-
-::: {.fragment .absolute top=570}
-
-3\. Major operations
-
- - often large-scale or long duration operations (often associated with wartime conditions)
-
-:::
-
-::: notes
-
-- Along this continuum we ha different levels of operations...
-
-1.  "click", in the first level: the military is engaged to control tension between groups, predominately without force, and often involve being deployed in foreign country. BUT, the Day to day conflict tension is low.
-
-2. "click", moving to the right, the conflict level increases and the soldiers readiness level is elevated, it typically involves small-scale operations, of limited duration, such as nonbombat evacuations..
-
-3.  "click" far right, there is sustained operations in conflict with other nations or groups, it is often a *series* of operations aimed to restore security, and strategic positions within a given time, this is often associated with full wartime..
-
-:::
 
 
 
@@ -2806,7 +2991,7 @@ This will be an increased demand relying on sodliers muscleskeletal and aerobic 
 :::
 
 
-## Outline of talk {.smaller background-color="#107895"}
+## Outline of talk {.smaller background-color="#107895" visibility="hidden"}
 
 - What is military operations?
 
@@ -2833,7 +3018,7 @@ This will be an increased demand relying on sodliers muscleskeletal and aerobic 
 
 :::
 
-## Prolonged operations in the literature {.smaller background-color="#107895"}
+## Prolonged operations in the literature {.smaller background-color="#107895" visibility="hidden"}
 
 ### "The bigger picture"
 
@@ -2858,7 +3043,7 @@ This will be an increased demand relying on sodliers muscleskeletal and aerobic 
 
 ::: {.column width="50%"}
 
-![](fig/iraq.png){.fragment .fade-in fragment-index=3 .absolute right=0 top=150 width="480"}
+![](fig/iraq.png){.fragment .fade-in fragment-index=3 .absolute right=0 top=150 width="480" visibility="hidden"}
 
 ::: {.fragment fragment-index=3 .absolute bottom=60}
 
@@ -2883,7 +3068,7 @@ This will be an increased demand relying on sodliers muscleskeletal and aerobic 
 :::
 
 
-## What is seen during deployments in changes in physical fitness {.smaller background-color="#107895"}
+## What is seen during deployments in changes in physical fitness {.smaller background-color="#107895" visibility="hidden"}
 
 :::: {.columns}
 
@@ -2962,7 +3147,7 @@ readRDS(file="./derived/physical.RDS") +
 :::
 
 
-## What is seen during deployment studies in changes in body composition {.smaller background-color="#107895"}
+## What is seen during deployment studies in changes in body composition {.smaller background-color="#107895" visibility="hidden"}
 
 :::: {.columns}
 
@@ -3052,7 +3237,7 @@ readRDS(file="./derived/comp.RDS") +
 
 
 
-## Characteristics of deployment studies {.smaller background-color="#107895"}
+## Characteristics of deployment studies {.smaller background-color="#107895" visibility="hidden"}
 
 
 Deployment duration and country
@@ -3086,7 +3271,7 @@ readRDS(file="./derived/duration.RDS")
 
 
 
-## Characteristics of deployment studies {.smaller background-color="#107895"}
+## Characteristics of deployment studies {.smaller background-color="#107895" visibility="hidden"}
 
 Post-deployment measure
 
@@ -3122,7 +3307,7 @@ readRDS(file="./derived/delayed.RDS")
 
 
 
-## Why this drop in aerobic capacity {.smaller background-color="#107895"}
+## Why this drop in aerobic capacity {.smaller background-color="#107895" visibility="hidden"}
 
 ### Training volume drops
 
@@ -3203,7 +3388,7 @@ Warr 2013        - 67%
 :::
 
 
-## Summary slide of deployments studies {.smaller background-color="#107895"}
+## Summary slide of deployments studies {.smaller background-color="#107895" visibility="hidden"}
 
 ::: {.fragment}
 - Body composition is not that affected over these prolonged deployment periods
@@ -3238,7 +3423,7 @@ To sum up these deployment studies;
 :::
 
 
-## Physical training during deployment {.smaller background-color="#107895"}
+## Physical training during deployment {.smaller background-color="#107895" visibility="hidden"}
 
 ![](fig/new/benefit.png){}
 
