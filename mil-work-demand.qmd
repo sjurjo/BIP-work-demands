@@ -847,11 +847,11 @@ But there is more determinating factors for your military readiness, which we wi
 ::: {.r-stack}
 
 
-![](fig/new/conc_stress.png){.fragment fragment-index=1 .fade-in-then-out}
+![](fig/new/conc_stress.png){.fragment fragment-index=1 .fade-in-then-out .absolute height="450" left=-15 top=110}
 
-![](fig/new/ex_envir1.png){.fragment fragment-index=2 .fade-in-then-out}
+![](fig/new/ex_envir1.png){.fragment fragment-index=2 .fade-in-then-out .absolute height="450" left=-15 top=110}
 
-![](fig/new/rightside.png){.fragment fragment-index=3}
+![](fig/new/rightside.png){.fragment fragment-index=3 .absolute height="450" left=-15 top=110}
 
 :::
 
@@ -881,9 +881,13 @@ But there is more determinating factors for your military readiness, which we wi
 ### The soldier is in a challenging position
 
 
-![](fig/solder_fucked.png){}
+![](fig/solder_fucked.png){.absolute height="400"}
+
+::: {.fragment .absolute bottom=0}
 
 [@RN1097;@RN1110;@RN1108]
+
+:::
 
 ::: {.notes}
 
@@ -899,23 +903,31 @@ But there is more determinating factors for your military readiness, which we wi
 
 ### The soldier is in a challenging position
 
-![](fig/solder_fucked_2.png){}
+![](fig/solder_fucked_2.png){.absolute height="400"}
 
-::: {.fragment bottom=5}
+::: {.fragment .absolute bottom=-30}
 
 - Consequences are decreased physical/military performance
 
-- Can even jeopardize mission and lives 
-
-[@RN1460]
+- Can even jeopardize mission and lives
 :::
+
+::: {.absolute right=0 bottom=50}
+
+ [@RN1460]
+ 
+:::
+
+
 
 ::: {.notes}
 
--  "click", Consequently, this may reduce physical and military performance, due to loss of skeletal muscle, loss of body mass, muscle function, , risk of injury, reduced cognitive function .
+-  "click", Consequently, this may reduce physical and military performance, due to loss of skeletal muscle, loss of body mass, muscle function, risk of injury, reduced cognitive function .
 
 - and it can even jeopardize mission and lives
 
+
+Have all of your been through field exercises?
 
 IS these factors familiar to you?
 
@@ -2785,7 +2797,7 @@ Notably:
 
 ![](images/exercise/comb.png)
 
-::: {.absolute top=-50 right=-60}
+::: {.absolute top=-40 right=-60}
 
 {{< video https://www.youtube.com/watch?v=TQ3P-XvOnFs&list=RDTQ3P-XvOnFs&start_radio=1 start="5"  width="350" height="250">}}
 
