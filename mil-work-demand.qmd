@@ -62,6 +62,9 @@ source("./R/themes.R")
 
 ::: {.notes}
 
+
+Switching to part two looking into what are we actuallay training for with these exercises from military pentathlon....
+
 2 part; Then from her and beyond military pentathlon, physical capacitites are put into a broader military context. With the purpose of emphazising the importance of physical fitness to improve and sustain military readiness
 
 3. part benefit
@@ -137,14 +140,14 @@ The characteristics of the military pentathlon are closely related to the role o
 
 ::: {.fragment .fade-in-then-out fragment-index=2}
 
-- **Obstacle course:** a way to prepare the military for the more difficult areas that they will sometimes have to go through to get to their destination.
+- **Obstacle course:** a way to prepare the soldier for the more difficult areas that they will sometimes have to go through to get to their destination.
   - It will also improve aerobic and anaerobic exercise capabilities, muscular endurance and strength and agility.
   - This will demand high degree of concentration
 :::
 
 ::: {.fragment .fade-in-then-out fragment-index=3}
 
-- **Obstacle swimming:** important movement process that allows the military to acquire the basic skills of survivial in the water and crossing certain obstacles.
+- **Obstacle swimming:** important movement process that allows the soldier to acquire the basic skills of survivial in the water and crossing certain obstacles.
   - Improving aerobic exercise capacity, muscular endurance..
 
 :::
@@ -159,7 +162,7 @@ The characteristics of the military pentathlon are closely related to the role o
 
 ::: {.fragment .fade-in-then-out fragment-index=5}
 
-- **Running** in various terrains: this is in particular useful for the military, as it forms a series of skills specific to running on different terrains. 
+- **Running** in various terrains: this is in particular useful for the soldier, as it forms a series of skills specific to running on different terrains. 
   - It improves the aerobic capacity and cardiovascular system, and the soldier will also train on terrains similar to the environment in which they can meet on the battlefield.
 
 :::
@@ -199,10 +202,6 @@ The characteristics of the military pentathlon are closely related to the role o
 
 
 ::: {.notes}
-
-- Obstacle course
-
-- Each of the obstacles can be related to a specific combat skill required in the operational theater - link to the correlation plot with strength and endurance..  
 
 - concentration: 
 
@@ -276,7 +275,7 @@ and these skills are associated to your strength and endurance capacities..
 - A strong argument for sustaining strength and endurance capacity during your academic life, or when deployed and will ensure military readiness
 
 
-What this really comes down to is that the military pentathlon isn’t just about sport — it’s about meeting real operational demands. These exercises are designed to sharpen your military readiness. And that readiness, at its core, depends on your physical fitness — on the strength and endurance you bring to the table.
+- What this really comes down to is that the military pentathlon isn’t just about sport — it’s about meeting real operational demands. These exercises are designed to sharpen your military readiness. And that readiness, at its core, depends on your physical fitness — on the strength and endurance you bring to the table.
 
 So. let us put military pentathlon into the military context and elaborate how it is related to your military readiness....
 
@@ -505,7 +504,7 @@ Versatility - allsidighet
 ::: {.notes}
 
 
-- To set the military pentathlon in a military context and its relation to your military readiness, we must first define military operations, as this is what we continuously train to accomondate us fo
+- To set the military pentathlon in a military context and its relation to your military readiness, we must first define military operations, as this is what we continuously train to prepare us for.....
 
 
 :::
