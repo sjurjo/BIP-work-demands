@@ -147,15 +147,15 @@ The characteristics of the military pentathlon are closely related to the role o
 
 ::: {.fragment .fade-in-then-out fragment-index=3}
 
-- **Obstacle swimming:** important movement process that allows the soldier to acquire the basic skills of survivial in the water and crossing certain obstacles.
-  - Improving aerobic exercise capacity, muscular endurance..
+- **Obstacle swimming:** important movement process that allows the soldier to acquire the basic skills of survival in the water and crossing certain obstacles.
+  - Improving aerobic exercise capacity, muscular endurance.
 
 :::
 
 
 ::: {.fragment .fade-in-then-out fragment-index=4}
 
-- **Throwing:** improves motor control and coordination of movement.  
+- **Throwing:** improves motor control and coordination of the movement (in-run, timing).  
   - This does not only apply throwing grenades, but other materials can be used, such as smoke bombs, first aid kits, ropes ect.
 
 :::
@@ -272,12 +272,8 @@ and these skills are associated to your strength and endurance capacities..
     
 - So meaning, are you stronger you would also likely perform better in these military performance tasks...
 
-- A strong argument for sustaining strength and endurance capacity during your academic life, or when deployed and will ensure military readiness
 
 
-- What this really comes down to is that the military pentathlon isn’t just about sport — it’s about meeting real operational demands. These exercises are designed to sharpen your military readiness. And that readiness, at its core, depends on your physical fitness — on the strength and endurance you bring to the table.
-
-So. let us put military pentathlon into the military context and elaborate how it is related to your military readiness....
 
 ---
 
@@ -455,6 +451,16 @@ end
 
 - INTERESTINGLY, we see that several of these relationship overlaps between strength and endurance, for.example move fast, dig crawl, repeated lift, load carry...
 
+- What this really comes down to is that the military pentathlon isn’t just about sport — it’s about meeting real operational demands. These exercises are designed to sharpen your military readiness. And that readiness, at its core, depends on your physical fitness — on the strength and endurance you bring to the table.
+
+SO, let us put military pentathlon into the military context and elaborate how it is related to your military readiness....
+
+------------
+
+
+- A strong argument for sustaining strength and endurance capacity during your academic life, or when deployed and will ensure military readiness
+
+
 - meaning the soldier is dependent of both physical capacities and they need to train both capacities to optimize military readiness!!
 
 :::
@@ -504,7 +510,7 @@ Versatility - allsidighet
 ::: {.notes}
 
 
-- To set the military pentathlon in a military context and its relation to your military readiness, we must first define military operations, as this is what we continuously train to prepare us for.....
+- To set the military pentathlon in a military context and its relation to your military readiness, we must first define military operations, as this is what we continuously train to prepare and be ready for...
 
 
 :::
@@ -520,8 +526,6 @@ Versatility - allsidighet
 -   The conflict continuum forms the operation (inspired by doctrine.af.mil)
 
 ::: notes
-
-
 
 
 - So, a military operation is not a fixed situation. IT continuously varies in degrees of intensity and complexity on a day or weekly basis. 
@@ -615,7 +619,11 @@ Versatility - allsidighet
 
 - So this demand line of fitness need to be high to ensure soldiers military readiness, as the conflict may move from left to right very fast..
 
-- AND THIS demand line is what you are training on during this week. MUliple demands which is related to the militay occupational tasks that, some are more or less linked to the military pentahtlon exercises that you specifically are training on this week
+- AND THIS demand line is what you are training on during this week. Femand of physical fitness that is related to your military occupational task performance, some are more or less linked to the military pentathlon exercises that you specifically are training on this week
+
+
+
+- Draw the connection on the whiteboard.... linking it all toghether
 
 
 :::
@@ -650,7 +658,9 @@ Versatility - allsidighet
 
 ::: {.notes}
 
--THEN let us look into some general demands that the modern soldier needs to cope with....
+- Ok, we now the connection between physical fitness, occupational tasks and military readiness, 
+
+- so KNOW let us dig into some general demands that the modern soldier needs to cope with....
 
 ::: 
 
@@ -928,13 +938,26 @@ But there is more determinating factors for your military readiness, which we wi
 
 Have all of your been through field exercises?
 
-IS these factors familiar to you?
+IS these factors familiar to you, do you recognize these factors occuring during field exercises..?
 
 :::
 
 
+## Consequences of bein in a multi-stress environment {.smaller background-color="#107895"}
+
+### The soldier is in a challenging position
+
+![](fig/new/ex_envir1.png){.absolute height="350"}
 
 
+::: {.notes}
+
+- So being able to maintain its physical fitness level IS OF IMPORTANCE, as these stress-factors will induced negative physiological changes in periods during deployment and other operations, especial towards the RIGTH side of the continuum, and thus compromise soldiers physical performance and readiness
+
+PAUSE
+
+
+:::
 
 
 ## Outline of talk {.smaller background-color="#107895"}
@@ -974,7 +997,6 @@ IS these factors familiar to you?
 
 ::: {.notes}
 
-- So being able to maintain its physical fitness level IS OF IMPORTANCE, as these stress-factors will induced negative physiological changes in periods during deployment and other operations, especial towards the RIGTH side of the continuum, and thus compromise soldiers physical performance and readiness
 
 PAUSE
 
@@ -1004,6 +1026,8 @@ AND training strategies that have been implemented under these circumstances bot
 
 - And, to reduce training monotomy and stagnation in adaptations, the periodization strategy, is often applied in training plans. Wherein the purpose is to systematically vary in training modalities, exercise, intensity and volume, to ensure variation in training stimuli and thus enhance development of adaptations over time. This may also may reduce the potential for overtraining  
 
+
+These training principles and others will be delved more intor during the next lecture, for optimizing performance
 
 :::
 
@@ -1078,7 +1102,7 @@ AND training strategies that have been implemented under these circumstances bot
 
 - "click", wherein the impact of each of these stress factors are lowest in intensity..
 
-- this is where you are now, predominately, during your academy military education, but you will at occasions be tested of the impact of these stress factors during your education, Ill come back to that later
+- this is where you are now, predominately, during your academy military education, but you will at occasions be tested of the impact of these stress factors during your education, I'll come back to that later in the lecture
 
 :::
 
