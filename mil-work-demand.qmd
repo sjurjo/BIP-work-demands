@@ -68,6 +68,8 @@ Switching to part two looking into what are we actuallay training for with these
 2 part; Then from her and beyond military pentathlon, physical capacitites are put into a broader military context. With the purpose of emphazising the importance of physical fitness to improve and sustain military readiness
 
 3. part benefit
+- benefit of sustaining high physical fitness for short and long term as a soldier...
+
 
 
 :::
@@ -86,7 +88,7 @@ Switching to part two looking into what are we actuallay training for with these
 
 - Modified the original pentathlon
 
-- The characteristics of the military pentathlon<br>[@baitan_2021]{style="font-size: 70%;"}
+- The characteristics of the military pentathlon-<br>closely related to military demands [@baitan_2021]{style="font-size: 70%;"}
 
 :::
 
@@ -115,9 +117,10 @@ Startet on the beginning of the 1900th century..
 
 - Captain Debrus modified this training to the exercises we now to day, this was after 1946..
 
-The characteristics of the military pentathlon are closely related to the role of the military and the essential tasks undertaken by the armed forces, being a combination of the ability to concentrate, physical endurance and psychological challenges. 
+- The characteristics of the military pentathlon are closely related to the role of the military and the essential tasks undertaken by the armed forces, being a combination of the ability to concentrate, physical endurance and psychological challenges. 
 
-- The one who masters all the events within the military pentathlon is the one who will excel both in sports and on the battlefield, predicting the versatility (allsidighet) of the future military soldier
+
+- The one who masters all the events within the military pentathlon is the one who will excel both in sports AND on the battlefield, predicting the versatility (allsidighet) of the future military soldier
 
 
 :::
@@ -156,6 +159,7 @@ The characteristics of the military pentathlon are closely related to the role o
 ::: {.fragment .fade-in-then-out fragment-index=4}
 
 - **Throwing:** improves motor control and coordination of the movement (in-run, timing).  
+  - Concentrate on motor control specific to the biomechanics of the precision throwing movement
   - This does not only apply throwing grenades, but other materials can be used, such as smoke bombs, first aid kits, ropes ect.
 
 :::
@@ -170,7 +174,8 @@ The characteristics of the military pentathlon are closely related to the role o
 ::: {.fragment .fade-in-then-out fragment-index=6}
 
 - **Shooting:** Handle rifle appropriately, need to execute fire quickly and efficiently, to cope with scenarios at the battlefield. 
-  - Precision shooting is essential for survival and to prevent unnecessary injuries. 
+  - Precision shooting is essential for survival and to prevent unnecessary injuries.  
+  - Concentration in stressful situations is necessary for success in the field
 
 :::
 :::
@@ -211,11 +216,11 @@ The characteristics of the military pentathlon are closely related to the role o
 
 4.  - the ability to concentrate in stressful situations is necessary during the firing of the individual equipment (especial during the 1 min round of 10 shoots)  
   
-  
 
 - The multi-athletic person which handle all the characteristics and physical demands will achieve the highest performance in all five trials{bg}  
 
 
+----------
 
 - A positive mental state
     - obtaining the pleasure of being committed in the activity, enjoy the activity, helps to achieve success and emphasizes the following: repeated competition and pleasure will lead to the acquisition of basic skills that the military will need. Furthermore, a winning mental attitude strengthens you not to give up when you set yourself a goal and encounter obstacles. This attitude (confidence, intelligence, work and perseverance), can be directly related to that of the military on the battlefield.
@@ -451,7 +456,7 @@ end
 
 - INTERESTINGLY, we see that several of these relationship overlaps between strength and endurance, for.example move fast, dig crawl, repeated lift, load carry...
 
-- What this really comes down to is that the military pentathlon isn’t just about sport — it’s about meeting real operational demands. These exercises are designed to sharpen your military readiness. And that readiness, at its core, depends on your physical fitness — on the strength and endurance you bring to the table.
+- What this really comes down to is that the military pentathlon is NOT just about sport — it’s about meeting real operational demands. These exercises are designed to sharpen your military readiness. And that readiness, at its core, depends on your physical fitness — on the strength and endurance you bring to the table.
 
 SO, let us put military pentathlon into the military context and elaborate how it is related to your military readiness....
 
@@ -510,7 +515,7 @@ Versatility - allsidighet
 ::: {.notes}
 
 
-- To set the military pentathlon in a military context and its relation to your military readiness, we must first define military operations, as this is what we continuously train to prepare and be ready for...
+- To set the military pentathlon in a military context and its relation to your military readiness, we must first define military operations, as this is what we continuously train TO prepare and be ready for...
 
 
 :::
@@ -619,7 +624,7 @@ Versatility - allsidighet
 
 - So this demand line of fitness need to be high to ensure soldiers military readiness, as the conflict may move from left to right very fast..
 
-- AND THIS demand line is what you are training on during this week. Femand of physical fitness that is related to your military occupational task performance, some are more or less linked to the military pentathlon exercises that you specifically are training on this week
+- AND THIS demand line is what you are training on during this week. The Demand of physical fitness that is related to your military occupational task performance, some are more or less linked to the military pentathlon exercises that you specifically are training on this week
 
 
 
@@ -660,7 +665,7 @@ Versatility - allsidighet
 
 - Ok, we now the connection between physical fitness, occupational tasks and military readiness, 
 
-- so KNOW let us dig into some general demands that the modern soldier needs to cope with....
+- so KNOW let us dig into some general demands that the modern soldier needs to cope with....which has evoled over the years
 
 ::: 
 
@@ -689,7 +694,7 @@ Figure from [@RN1615;@RN1633]
 
 - "click", from the WWI until freedom operations in Iraq and Afghanistan (point), there is seen an linear increase in load carried on soldiers body
 
-- This is mainly due to development of advanced protective body armor and weapon systems - which has lead to load carried on body has increased from around 5 kg up to 30 kg over the last 100 years..
+- This is mainly due to development of advanced protective body armor and weapon systems - which has lead to load carried on body has increased from around 5 kg up to 30 kg or more over the last 100 years..
 
 - as a matter of fact, there is reported that soldiers during a 1 year deployment are in average carrying daily around 22 kg extra load on body compared to garrison duty..
 
@@ -719,7 +724,7 @@ Figure from [@RN1615;@RN1633]
 
 - Consequently the anaerobic requirements is elevated, adding another demand on the soldier physical fitness capacity
 
-- Which is also an important capacity in the obstacle course performance, with high intensity for a short time of period..
+- WHICH is also an important capacity in the obstacle course performance, with high intensity for a short time of period..
 
 :::
 
@@ -746,7 +751,7 @@ Figure from [@RN1615;@RN1633]
 
 - hence, adding an extra physiological stress on the soldier
 
-- so an increased daily total loading, as you will experience by conducting all the military pentathlon exercises, is something you need to cope with to perform well in the pentathlon - and when put into a military context important to sustain your military readiness
+- SO an increased daily total loading, as you will experience by conducting all the military pentathlon exercises, is something you need to cope with to perform well in the pentathlon - a high load for a short time of period - and when put into a military context an important demand to handle to sustain your military readiness
 
 :::
 
@@ -790,9 +795,7 @@ Figure from [@RN1615;@RN1633]
 
 - All these demands which has increased gradually with the modern battlefield thus highlight the need for high physical fitness during military operations, and will thus also affect soldiers military readiness..
 
-
-But there is more determinating factors for your military readiness, which we will look into know
-
+- However, there is more determinant factors that will affect soldiers military readiness and also challenge the maintenance of high physical fitness, which we will look into now..
 :::
 
 
@@ -818,16 +821,16 @@ But there is more determinating factors for your military readiness, which we wi
 
 ::: {.notes}
 
-- However, there is more determinant factors that will affect soldiers military readiness and also  challenge the maintenance of high physical fitness.. 
+ 
 
 - "click", with the increased intensity and complexity in the conflict area, moving towards the right side, additional factors will simultaneously increase and challenge soldiers military readiness "click".
 
--These factors increases concurrently with the intensity of the conflict, such as, POINT, increases in sleep deprivation, energy deficit, recovery deficit, along with the duration of operations, and increases in physical strenous activitites. "click", 
+- These factors increases concurrently with the intensity of the conflict, such as, POINT, increases in sleep deprivation, energy deficit, recovery deficit, along with the duration of operations, and increases in physical strenous activitites. "click", 
 
-- This factors alone or in combination will induce a physiological stress on the soldier, which affects soldiers military readiness
+- This factors alone or in combination will induce a physiological stress on the soldier, which affects soldiers military readiness  
 
-
-- Have you experienced these factors in your time of servise? How did it affect you?
+CADETS;
+- Have you experienced these factors in your time of service? How did it affect your perforamnce and readiness?
 
 
 :::
@@ -892,7 +895,7 @@ But there is more determinating factors for your military readiness, which we wi
 
 ![](fig/solder_fucked.png){.absolute height="400"}
 
-::: {.fragment .absolute bottom=0}
+::: {.absolute bottom=0}
 
 [@RN1097;@RN1110;@RN1108]
 
@@ -936,9 +939,8 @@ But there is more determinating factors for your military readiness, which we wi
 - and it can even jeopardize mission and lives
 
 
-Have all of your been through field exercises?
-
-IS these factors familiar to you, do you recognize these factors occuring during field exercises..?
+CADETS: Have all of your been through field exercises?  
+IS these factors familiar to you, do you recognize these factors occurring during field exercises..?
 
 :::
 
@@ -1027,7 +1029,7 @@ AND training strategies that have been implemented under these circumstances bot
 - And, to reduce training monotomy and stagnation in adaptations, the periodization strategy, is often applied in training plans. Wherein the purpose is to systematically vary in training modalities, exercise, intensity and volume, to ensure variation in training stimuli and thus enhance development of adaptations over time. This may also may reduce the potential for overtraining  
 
 
-These training principles and others will be delved more intor during the next lecture, for optimizing performance
+THESE training principles and others will be delved more into during the next lecture, for optimizing performance
 
 :::
 
@@ -1057,7 +1059,7 @@ These training principles and others will be delved more intor during the next l
 
 ::: {.notes}
 
-- In particular have the periodization model, block periodization, been recommended for soldiers to use both before and during deployment periods BUT also in your academic daily life this has a value, as your training may be interrupted by field exercises or other mandatory lectures interrupting your training schedule...
+- In particular have the periodization model, block periodization, been recommended for soldiers to use both before and during deployment periods BUT also in your academic daily life this has a value, as your training may be interrupted by field exercises or other mandatory lectures interrupting your training continuity..
 
 - With block periodization the soldier can in different periods work with different focus, with the aim to maximize a physiological capacity, while maintaining other capacities simultaneously
 
@@ -1097,8 +1099,7 @@ These training principles and others will be delved more intor during the next l
 
 - "click" But we know that the soldiers is in a challenging position, as the degree of the conflict continuum would vary with the present of single of multiple-stress factors that consequently would put the soldier in a more maladaptive state..
 
-
-- "click", AND, it is most likely in the left end of the conflict continuum, towards the stable peace conditions...
+- "click" SO, where is it most optimal to train systematically, MOST likely in the left end of the conflict continuum, towards the stable peace conditions...
 
 - "click", wherein the impact of each of these stress factors are lowest in intensity..
 
@@ -2354,7 +2355,7 @@ Similar adaptations between groups after 8 weeks:
 
 - There is a risk that the soldier frequently choose the easy session, due to low motivation
 
-so to increase motivation: 
+"click" SO to increase motivation:  
     - maybe include frequent testing of physical fitness during deployment?  
     - then the soldier can have some extra motivation to continue training progression
 
@@ -2814,7 +2815,7 @@ Notably:
 
 ::: {.fragment .absolute bottom=-40 style="font-size: 120%;"}
 
-[I hope this lecture has broadened your perspective on how military pentathlon exercises strengthen your military readiness and may serve as a tool to sharpen your training]{.bg style="--col: purple"}
+[I hope this lecture has broadened your perspective on how military pentathlon exercises relate to your work demands and military readiness, and that it may serve as a tool to sharpen your training]{.bg style="--col: purple"}
 
 :::
 
