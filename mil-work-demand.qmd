@@ -59,7 +59,6 @@ source("./R/themes.R")
 - Practical application  
 
 
-
 ::: {.notes}
 
 
@@ -2147,6 +2146,74 @@ Read on slide først, then figure
 :::
 
 
+## Flexible periodization model during deployment {.smaller background-color="#107895"}
+
+### Recovery aspect following operations
+
+
+![](fig/stress_3.png)
+
+- NOTABLY  
+- Post demanding operations:  
+      - Recovery days (optimal 1-2 weeks)
+
+::: {.notes}
+
+- However in regard to these training windows between operations, we know from these field exercise studies, that the body needs several days to recover, 
+
+- often it takes, 1-2 weeks before the body is fully recovered and returned to pre operation body mass and muscular performance levels
+
+- So, I would recommend there is some time restrictions that need to be followed to reduce risk of injury or delay the recovery process unnecessary...
+
+- and perhaps, more IMPORTANLTY, delay soldiers active duty readiness
+
+:::
+
+
+## Summary of flexible periodisation {.smaller background-color="#107895"}
+
+- Advantage:
+      
+    - The commandor knows that the soldier is doing training to maintain physical fitness over a certain time period 
+    - Easier to control recovery and mitigate overtraining
+      
+::: {.fragment}      
+
+- Disadvatage:
+    
+    - The commandor does not know wheter the training is done
+    - There is a risk that the soldier frequently choose the easy session (unmotivated)
+:::
+
+
+::: {.fragment} 
+- Suggestion to increase training motivation:
+    
+    - maybe include frequent testing of physical fitness during deployment?
+    - to motivate progression in training
+
+:::
+
+:::  {.notes}
+
+
+- So an advantage of using flexible training model is that "The commandor knows that the soldier is doing training to maintain physical fitness over a certain time period"
+
+-  AND, Easier to control recovery and mitigate overtraining
+
+
+- "click", The commandor does not know whether the training is done
+
+- There is a risk that the soldier frequently choose the easy session, due to low motivation
+
+"click" SO to increase motivation:  
+    - maybe include frequent testing of physical fitness during deployment?  
+    - then the soldier can have some extra motivation to continue training progression
+
+
+:::
+
+
 ## Micro training strategy {.smaller background-color="#107895"}
 
 ### A good idea to implement for soldiers?
@@ -2175,8 +2242,6 @@ Read on slide først, then figure
 
 
 ::::
-
-
 
 
 ::: {.notes}
@@ -2272,6 +2337,9 @@ Similar adaptations between groups after 8 weeks:
 
 :::
 
+
+
+
 ## Micro training cycles {.smaller background-color="#107895"}
 
 ### A good idea to implement for soldiers?
@@ -2291,74 +2359,6 @@ Similar adaptations between groups after 8 weeks:
 - So this can be a valuable strategy, with short frequent sessions, which can be implemented in short breaks during the day or between operations for example
 
 - taken together, the soldier would likely have some benefit of this training strategy as some training is likely better than nothing
-
-:::
-
-
-## Flexible periodization model during deployment {.smaller background-color="#107895"}
-
-### Recovery aspect following operations
-
-
-![](fig/stress_3.png)
-
-- NOTABLY  
-- Post demanding operations:  
-      - Recovery days (optimal 1-2 weeks)
-
-::: {.notes}
-
-- However in regard to these training windows between operations, we know from these field exercise studies, that the body needs several days to recover, 
-
-- often it takes, 1-2 weeks before the body is fully recovered and returned to pre operation body mass and muscular performance levels
-
-- So, I would recommend there is some time restrictions that need to be followed to reduce risk of injury or delay the recovery process unnecessary...
-
-- and perhaps, more IMPORTANLTY, delay soldiers active duty readiness
-
-:::
-
-
-## Summary of flexible periodisation {.smaller background-color="#107895"}
-
-- Advantage:
-      
-    - The commandor knows that the soldier is doing training to maintain physical fitness over a certain time period 
-    - Easier to control recovery and mitigate overtraining
-      
-::: {.fragment}      
-
-- Disadvatage:
-    
-    - The commandor does not know wheter the training is done
-    - There is a risk that the soldier frequently choose the easy session (unmotivated)
-:::
-
-
-::: {.fragment} 
-- Suggestion to increase training motivation:
-    
-    - maybe include frequent testing of physical fitness during deployment?
-    - to motivate progression in training
-
-:::
-
-:::  {.notes}
-
-
-- So an advantage of using flexible training model is that "The commandor knows that the soldier is doing training to maintain physical fitness over a certain time period"
-
--  AND, Easier to control recovery and mitigate overtraining
-
-
-- "click", The commandor does not know whether the training is done
-
-- There is a risk that the soldier frequently choose the easy session, due to low motivation
-
-"click" SO to increase motivation:  
-    - maybe include frequent testing of physical fitness during deployment?  
-    - then the soldier can have some extra motivation to continue training progression
-
 
 :::
 
@@ -2813,6 +2813,13 @@ Notably:
 
 ## Thank you for the attention {.smaller background-color="#107895"}
 
+
+::: {.absolute top=-40 right=-60}
+
+{{< video https://www.youtube.com/watch?v=TQ3P-XvOnFs&list=RDTQ3P-XvOnFs&start_radio=1 start="5"  width="350" height="250">}}
+
+:::
+
 ::: {.fragment .absolute bottom=-40 style="font-size: 120%;"}
 
 [I hope this lecture has broadened your perspective on how military pentathlon exercises relate to your work demands and military readiness, and that it may serve as a tool to sharpen your training]{.bg style="--col: purple"}
@@ -2821,17 +2828,15 @@ Notably:
 
 ![](images/exercise/comb.png)
 
-::: {.absolute top=-40 right=-60}
-
-{{< video https://www.youtube.com/watch?v=TQ3P-XvOnFs&list=RDTQ3P-XvOnFs&start_radio=1 start="5"  width="350" height="250">}}
-
-:::
 
 
 ::: {.notes}
 
 
 - and also a part of your military specific training - training specificity
+
+
+
 
 
 :::
