@@ -29,7 +29,6 @@ source("./R/themes.R")
 
 ```
 
-
 ## Military work demands and Military Pentathlon - The Link {.smaller background-color="#107895"}
 
 
