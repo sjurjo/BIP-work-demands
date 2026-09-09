@@ -233,7 +233,7 @@ Startet on the beginning of the 1900th century..
 4.  - the ability to concentrate in stressful situations is necessary during the firing of the individual equipment (especial during the 1 min round of 10 shoots)  
   
 
-- The multi-athletic person which handle all the characteristics and physical demands will achieve the highest performance in all five trials{bg}  
+- The multi-athletic person which handle all the characteristics and physical demands will achieve the highest performance in all five elements  
 
 
 ----------
@@ -807,6 +807,7 @@ Figure from [@RN1615;@RN1633]
 - Furthermore has the real-world mission requirements with new technology and equipment emphasized a higher need for anaerobic capacity, especial in the special forces...
 
 - Instead of walking long distances to the enemy objectives, soldiers are now transported close to the target. Wherein the soldier, with combat gear are moving fast up/down buildings or terrain in offensive or defensive maneuvers. 
+    - Bring in the aspect of sprinting to escape drones in Ukrainian (stories)...
 
 - Consequently the anaerobic requirements is elevated, adding another demand on the soldier physical fitness capacity
 
@@ -844,7 +845,7 @@ Figure from [@RN1615;@RN1633]
 
 ## Story from the Ukrainian battlefield ICSPP 2026 {.smaller background-color="#107895"}
 
-### The intensity and complexity are tremendous
+### The intensity and complexity are exceptionally high
 
 :::: {.columns}
 
@@ -864,7 +865,7 @@ Figure from [@RN1615;@RN1633]
 
 - Demands
     - Aerobic capacity
-    - Power - sprint (anaerobic)
+    - Power - sprint (anaerobic / effect)
     - Strength
 
 :::
@@ -872,7 +873,7 @@ Figure from [@RN1615;@RN1633]
 
 ::: {.fragment}
 
-- Duration - soldier turn over - 100 days in trenches!
+- Duration - soldier turnover - 100 days in trenches!
     - SUSTAIN SUSTAIN
 
 :::
@@ -889,7 +890,7 @@ Figure from [@RN1615;@RN1633]
 
 ::: {.fragment}
 
-How can you prepare and accommodate these demands you may meet on this complex battlefield?
+How can you prepare for and adapt to the complex and demanding conditions you may encounter on the battlefield?
 
 - The link to this weeks program
 
@@ -951,8 +952,7 @@ Cadet reflection:
 - Put heavy task into context, Ukrainian often need to carry equipment 1.5 to 2 times their own body weight.  
 
   - What do you need to meet such extreme demands, what is your opinion?  
-  - Maximal strength?  
-  - Core - lower limb?
+
 
 
 ::: {.notes}
@@ -960,6 +960,9 @@ Cadet reflection:
 So these occupational tasks could be translated to your working demands, but what is your most frequent work demands in your specialty... 
 
 Which capacities do these workings demands depend on?
+  - Maximal strength?  
+  - Core - lower limb?
+
 
 
 Working demands; can be physical capacitites, or specific tasks ect.
@@ -1210,6 +1213,8 @@ PAUSE
 
 
 # Part two lecture {background-color="#107895"}
+
+![](images/break.png)
 
 
 ## Military work demands and Military Pentathlon - The Link {.smaller background-color="#107895"}
